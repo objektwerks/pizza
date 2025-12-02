@@ -16,7 +16,7 @@
 4. Add the remainder of the flour over one or two rounds.
 5. Knead dough, as required, into ball.
 
-Fermentation
+**Fermentation**
 
 Add olive oil to bottom of coverable container.
 Place dough ball in coverable container; and cover.
