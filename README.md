@@ -18,9 +18,9 @@
 
 **Fermentation**
 
-Add olive oil to bottom of coverable container.
-Place dough ball in coverable container; and cover.
-Ferment for 2 - 4 hours in immediate room.
+1. Add olive oil to bottom of coverable container.
+2. Place dough ball in coverable container; and cover.
+3. Ferment for 2 - 4 hours in immediate room.
 
 Shaping
 
