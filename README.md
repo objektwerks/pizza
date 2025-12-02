@@ -10,7 +10,7 @@
 
 **Dough**
 
-1. Pour 100 ( +- 10 ) degree water into a bowl — and stir in the yeast.
+1. Pour 100 degree water ( +- 10 ) into a bowl — then stir in yeast.
 2. Add half of the flour and mix well until a smooth consistency.
 3. Add the sea salt and continue mixing.
 4. Add the remainder of the flour over one or two rounds.
