@@ -29,7 +29,7 @@ Spread flour on board.
 Place dough ball on board; and sprinkle flour on dough ball.
 Shape dough into a 12” circle, gently using fingers, hands and/or roller.
 
-Toppings
+**Toppings**
 
 Place pizza on pizza peel or in a pizza pan; then slide pizza into oven.
 Add tomatoes and mozzarella to dough.
