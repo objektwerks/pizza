@@ -31,9 +31,9 @@
 
 **Toppings**
 
-Place pizza on pizza peel or in a pizza pan; then slide pizza into oven.
-Add tomatoes and mozzarella to dough.
-Optionally add additional toppings.
+1. Place pizza on pizza peel or in a pizza pan; then slide pizza into oven.
+2. Add tomatoes and mozzarella to dough.
+3. Optionally add additional toppings.
 
 **Baking**
 
