@@ -31,11 +31,11 @@
 
 **Toppings**
 
-1. Place pizza on pizza peel or in a pizza pan; then slide pizza into oven.
-2. Add tomatoes and mozzarella to dough.
-3. Optionally add additional toppings.
+1. Add tomatoes and mozzarella to dough.
+2. Optionally add additional toppings.
 
 **Baking**
 
-1. Set oven timer for 6+ minutes. [ optionally set phone timer for visual confirmation ]
-2. Remove pizza from oven; and slice.
+1. Place pizza on pizza peel or in a pizza pan; then slide pizza into oven.
+2. Set oven timer for 6+ minutes. [ optionally set phone timer for visual confirmation ]
+3. Remove pizza from oven; and slice.
