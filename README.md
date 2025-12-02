@@ -3,7 +3,7 @@
 
 **Ingredients**
 
-1. 162 grams water @ 100 degrees, which is 60% hydration.
+1. 162 grams water @ 100 degrees, @ 60% hydration.
 2. 270 grams flour.
 3. 9 grams sea salt ( 2 teaspoons ).
 4. 1 gram yeast ( fresh, active or instant ) ( 1/4 teaspoon ).
