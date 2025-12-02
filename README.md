@@ -22,7 +22,7 @@
 2. Place dough ball in coverable container; and cover.
 3. Ferment for 2 - 4 hours in immediate room.
 
-Shaping
+**Shaping**
 
 Pre-heat [ pizza ] oven @ 550+ degrees.
 Spread flour on board.
