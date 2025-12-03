@@ -35,7 +35,7 @@
 **Toppings**
 
 1. Add tomatoes and mozzarella.
-2. Optionally add extra toppings.
+2. Optionally add extra toppings and seasonings.
 
 **Baking**
 
