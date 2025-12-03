@@ -13,7 +13,7 @@
 
 1. Pour 100 degree water ( +- 10 ) into a bowl — stir in yeast.
 2. Add half of flour - mix well into smooth consistency.
-3. Add sea salt and continue mixing.
+3. Add sea salt - continue mixing.
 4. Add remainder of flour - over one or two rounds.
 5. Knead dough into ball.
 
