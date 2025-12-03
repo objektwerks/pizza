@@ -37,6 +37,6 @@
 
 **Baking**
 
-1. Place pizza on pizza peel or in a pizza pan; then slide pizza into oven.
+1. Place pizza on pizza peel ***or*** in a pizza pan; then slide pizza into oven.
 2. Set oven timer for 6+ minutes. [ optionally set phone timer for visual confirmation ]
 3. Remove pizza from oven; and slice.
