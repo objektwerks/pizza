@@ -18,7 +18,8 @@
 2. Add half of flour - mix well into smooth consistency.
 3. Add sea salt - continue mixing.
 4. Add remainder of flour - over one or two rounds - continue mixing.
-5. Knead dough into ball via bowl or board.
+5. Knead dough into ball.
+6. Remove dough ball from bowl and place on board - knead into smooth ball, using flour as required.
 
 **Fermentation**
 
