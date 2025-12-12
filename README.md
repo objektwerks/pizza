@@ -16,8 +16,8 @@
 
 1. Pour water @ 100F / 37C degrees into a bowl - stir in yeast.
 2. Add half of flour - mix well into smooth consistency.
-3. Add sea salt - continue mixing.
-4. Add remainder of flour - over one or two rounds - continue mixing.
+3. Add remainder of flour - over two rounds, with mixing.
+4. Add sea salt - continue mixing.
 5. Knead dough into ball.
 6. Remove dough ball from bowl and place on board - knead into smooth ball, using flour as required.
 
