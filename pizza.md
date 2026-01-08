@@ -1,8 +1,8 @@
-12” Pizza Recipe
-----------------
->Basic pizza recipe.
+12” Pizza Recipes
+-----------------
+>Basic and sourdough pizza recipes.
 
-**Ingredients**
+**Basic Ingredients**
 
 1. 144 grams water @ 100F / 37C degrees, @ 60% hydration ( 3/5 cup ).
 2. 1 gram yeast ( fresh, active or instant ) ( 1/4 teaspoon ).
