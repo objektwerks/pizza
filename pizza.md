@@ -19,7 +19,7 @@
 4. 216 grams 00 piza flour ( 1 2/3 cup ).
 5. 7 grams sea salt ( 2 teaspoons ).
 6. 113 grams pizza sauce ( 1/2 cup ).
-7. 170 grams shredded mozzarella ( 1 3/4 cups ).
+7. 170 grams shredded mozzarella ( 1 1/2 cups ).
 
 **Dough**
 
