@@ -14,7 +14,7 @@
 **Sourdough Ingredients**
 
 1. 144 grams water @ 100F / 37C degrees, @ 60% hydration ( 1/2 cup ).
-2. 24 grams sourdough starter ( 1/8 cup ).
+2. 24 grams sourdough starter ( 2 tablespoons ).
 3. 240 grams 00 piza flour ( 1 2/3 cup ).
 4. 7 grams sea salt ( 2 teaspoons ).
 5. 113 grams pizza sauce ( 1/2 cup ).
