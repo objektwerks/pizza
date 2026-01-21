@@ -35,7 +35,7 @@ Deep Dish Pizza
 
 1. Spread olive oil inside 9" x 13" baking pan.
 2. Place dough ball in pan.
-3. Stretch dough to four corners of pan.
+3. Stretch dough throughout pan.
 4. Add pizza sauce.
 5. Add shredded mozzarella.
 6. Add ( optionally sliced or crumbled ) bacon.
