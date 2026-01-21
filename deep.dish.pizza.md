@@ -1,6 +1,6 @@
 Deep Dish Pizza
 ---------------
->Artisan bread recipes - basic, rye and sourdough - with a fundamental process.
+>Deep dish pizza recipe.
 
 **Basic Ingredients**
 
