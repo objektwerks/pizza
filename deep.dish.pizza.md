@@ -53,4 +53,4 @@ Deep Dish Pizza
 **Baking**
 
 1. Place pizza in oven.
-2. Bake for 15 minutes.
+2. Bake @ 15 minutes.
