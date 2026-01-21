@@ -28,3 +28,7 @@ Deep Dish Pizza
 2. Place dough ball in coverable container - then cover.
 3. Ferment dough ball for 2 - 4 hours @ room temperature. Optionally frement dough overnight.
 
+**Deep Pan***
+
+1. Place dough ball in 9" x 13" pan.
+2. Stretch to dough to four corners of pan.
