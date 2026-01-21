@@ -35,5 +35,4 @@ Deep Dish Pizza
 
 **Oven**
 
-1. Place Dutch oven in oven.
-2. Pre-heat oven @ 450 degrees.
+1. Pre-heat oven @ 450 degrees.
