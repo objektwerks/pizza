@@ -41,6 +41,7 @@ Deep Dish Pizza
 6. Add bacon.
 7. Add mushrooms.
 8. Add spinach.
+9. Lightly add olive oil to top of pizza.
 
 **Oven**
 
