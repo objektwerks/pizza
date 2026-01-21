@@ -31,7 +31,7 @@ Deep Dish Pizza
 2. Place dough ball in coverable container - then cover.
 3. Ferment dough ball for 2 - 4 hours @ room temperature. Optionally frement dough overnight.
 
-**Build***
+**Pizza***
 
 1. Spread olive oil inside 9" x 13" baking pan.
 2. Place dough ball in pan.
@@ -52,5 +52,5 @@ Deep Dish Pizza
 1. Boil water for empty baking pan.
 2. Poor boiling water into empty baking pan.
 3. Place empty baking pan with boiling water in oven.
-4. Place deep dish pan in oven.
+4. Place pizza in oven.
 5. Bake for 15 minutes.
