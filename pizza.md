@@ -51,6 +51,10 @@
 4. Optionally add extra toppings and seasonings.
 >Optionally build pizza on board - then place on pizza peel ***or*** pizza pan.
 
+**Oven**
+
+1. Pre-heat oven @ 450+ degrees.
+
 **Baking**
 
 1. Set timer @ 3+ minutes.
