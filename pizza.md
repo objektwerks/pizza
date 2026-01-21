@@ -57,8 +57,8 @@
 
 **Baking**
 
-1. Set timer @ 3+ minutes.
-2. Slide pizza into oven.
+1. Slide pizza into oven.
+2. Set timer @ 3+ minutes.
 3. Inspect pizza intermittingly, adjusting as required.
 4. Remove pizza from oven and slice.
 >Expect 3 - 9 minutes, depending on oven type and temperature.
