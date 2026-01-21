@@ -53,5 +53,5 @@ Deep Dish Pizza
 
 1. Slide pizza into oven.
 2. Bake @ 15 minutes.
-3. Inspect pizza intermittingly, adjusting as required.
+3. Inspect pizza intermittingly.
 4. Remove pizza from oven and slice.
