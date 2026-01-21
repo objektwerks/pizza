@@ -51,6 +51,6 @@ Deep Dish Pizza
 
 1. Boil water for empty baking pan.
 2. Poor boiling water into empty baking pan.
-3. Place empty baking pan in oven.
+3. Place empty baking pan with boiling water in oven.
 4. Place deep dish pan in oven.
 5. Bake for 15 minutes.
