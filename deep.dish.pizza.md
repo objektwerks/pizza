@@ -17,6 +17,7 @@ Deep Dish Pizza
 3. 9 strips of bacon.
 4. 454 grams of sliced mushrooms ( 16 ounces ).
 5. 1 dozen spinach leaves.
+>Change toppings as desired.
 
 **Dough**
 
