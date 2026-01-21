@@ -38,7 +38,7 @@ Deep Dish Pizza
 3. Stretch dough to four corners of pan.
 4. Add pizza sauce.
 5. Add shredded mozzarella.
-6. Add bacon.
+6. Add ( optionally sliced or crumbled ) bacon.
 7. Add mushrooms.
 8. Add spinach.
 9. Lightly add olive oil to top of pizza.
