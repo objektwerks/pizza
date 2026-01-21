@@ -7,8 +7,8 @@ Deep Dish Pizza
 1. 355 grams water @ 100F / 37C degrees ( 1 1/2 cup ).
 2. 6 grams yeast ( fresh, active or instant ) ( 2 teaspoons ).
 3. 450 grams bread flour ( 3 1/2 cups ).
-4. 7 grams sea salt ( 2 teaspoons ).
-5. 60 grams olive oil ( 1/4 cup ).
+4. 60 grams olive oil ( 1/4 cup ).
+5. 7 grams sea salt ( 2 teaspoons ).
 6. 240 grams pizza sauce ( 1 cup ).
 7. 230 grams shredded mozzarella ( 2 cups ).
 8. 9 strips of bacon.
