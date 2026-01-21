@@ -11,6 +11,7 @@ Deep Dish Pizza
 5. 90 grams olive oil ( 1/4 cup ).
 6. 113 grams pizza sauce ( 1/2 cup ).
 7. 170 grams shredded mozzarella ( 1 3/4 cups ).
+8. 9 strips of bacon.
 
 **Dough**
 
