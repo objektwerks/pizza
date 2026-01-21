@@ -45,10 +45,10 @@ Deep Dish Pizza
 
 **Oven**
 
-1. Pre-heat oven @ 450 degrees.
-2. Boil water for empty baking pan.
-3. Poor boiling water into empty baking pan.
-4. Place empty baking pan with boiling water in oven.
+1. Boil water for empty baking pan.
+2. Poor boiling water into empty baking pan.
+3. Place empty baking pan with boiling water in oven.
+4. Pre-heat oven @ 450 degrees.
 
 **Baking**
 
