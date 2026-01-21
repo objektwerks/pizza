@@ -32,3 +32,8 @@ Deep Dish Pizza
 
 1. Place dough ball in 9" x 13" pan.
 2. Stretch to dough to four corners of pan.
+
+**Oven**
+
+1. Place Dutch oven in oven.
+2. Pre-heat oven @ 450 degrees.
