@@ -9,11 +9,14 @@ Deep Dish Pizza
 3. 450 grams bread flour ( 3 1/2 cups ).
 4. 60 grams olive oil ( 1/4 cup ).
 5. 7 grams sea salt ( 2 teaspoons ).
-6. 240 grams pizza sauce ( 1 cup ).
-7. 230 grams shredded mozzarella ( 2 cups ).
-8. 9 strips of bacon.
-9. 454 grams of sliced mushrooms ( 16 ounces ).
-10. 1 dozen spinach leaves.
+
+**Toppings**
+
+1. 240 grams pizza sauce ( 1 cup ).
+2. 230 grams shredded mozzarella ( 2 cups ).
+3. 9 strips of bacon.
+4. 454 grams of sliced mushrooms ( 16 ounces ).
+5. 1 dozen spinach leaves.
 
 **Dough**
 
