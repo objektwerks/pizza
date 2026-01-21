@@ -39,11 +39,7 @@ Deep Dish Pizza
 1. Spread olive oil inside 9" x 13" baking pan.
 2. Place dough ball in pan.
 3. Stretch dough throughout pan.
-4. Add pizza sauce.
-5. Add shredded mozzarella.
-6. Add shredded bacon.
-7. Add mushrooms.
-8. Add spinach.
+4. Add toppings.
 9. Drizzle olive oil on top of pizza.
 
 **Oven**
