@@ -29,7 +29,7 @@ Deep Dish Pizza
 
 1. Add olive oil to bottom of coverable container.
 2. Place dough ball in coverable container - then cover.
-3. Ferment dough ball for 2 - 4 hours @ room temperature. Optionally frement dough overnight.
+3. Ferment dough ball for 2 - 4 hours @ room temperature. Optionally ferment dough overnight.
 
 **Pizza***
 
