@@ -13,6 +13,7 @@ Deep Dish Pizza
 7. 170 grams shredded mozzarella ( 1 3/4 cups ).
 8. 9 strips of bacon.
 9. 1 container of mushrooms.
+10. 1 dozen spinach leaves.
 
 **Dough**
 
