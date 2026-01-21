@@ -8,8 +8,9 @@ Deep Dish Pizza
 2. 6 grams yeast ( fresh, active or instant ) ( 2 teaspoons ).
 3. 450 grams bread flour ( 3 1/2 cups ).
 4. 7 grams sea salt ( 2 teaspoons ).
-5. 113 grams pizza sauce ( 1/2 cup ).
-6. 170 grams shredded mozzarella ( 1 3/4 cups ).
+5. 90 grams olive oil ( 1/4 cup ).
+6. 113 grams pizza sauce ( 1/2 cup ).
+7. 170 grams shredded mozzarella ( 1 3/4 cups ).
 
 **Dough**
 
@@ -19,4 +20,10 @@ Deep Dish Pizza
 4. Mix.
 5. Knead dough into ball.
 6. Remove dough ball from bowl and place on board - knead into smooth ball, using flour as required.
+
+**Fermentation**
+
+1. Add olive oil to bottom of coverable container.
+2. Place dough ball in coverable container - then cover.
+3. Ferment dough ball for 2 - 4 hours @ room temperature. Optionally frement dough overnight.
 
