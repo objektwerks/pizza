@@ -38,6 +38,8 @@ Deep Dish Pizza
 3. Add pizza sauce.
 4. Add shredded mozzarella.
 5. Add bacon.
+6. Add mushrooms.
+7. Add spinach.
 
 **Oven**
 
