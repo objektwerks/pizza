@@ -9,7 +9,7 @@ Deep Dish Pizza
 3. 450 grams bread flour ( 3 1/2 cups ).
 4. 7 grams sea salt ( 2 teaspoons ).
 5. 60 grams olive oil ( 1/4 cup ).
-6. 113 grams pizza sauce ( 1/2 cup ).
+6. 240 grams pizza sauce ( 1 cup ).
 7. 170 grams shredded mozzarella ( 1 3/4 cups ).
 8. 9 strips of bacon.
 9. 1 container of mushrooms.
