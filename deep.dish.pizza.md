@@ -12,7 +12,7 @@ Deep Dish Pizza
 6. 240 grams pizza sauce ( 1 cup ).
 7. 230 grams shredded mozzarella ( 2 cups ).
 8. 9 strips of bacon.
-9. 1 container of sliced mushrooms.
+9. 454 grams of sliced mushrooms ( 16 ounces ).
 10. 1 dozen spinach leaves.
 
 **Dough**
