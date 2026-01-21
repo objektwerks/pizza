@@ -33,13 +33,14 @@ Deep Dish Pizza
 
 **Build***
 
-1. Place dough ball in 9" x 13" pan.
-2. Stretch to dough to four corners of pan.
-3. Add pizza sauce.
-4. Add shredded mozzarella.
-5. Add bacon.
-6. Add mushrooms.
-7. Add spinach.
+1. Spread olive oil inside 9" x 13" baking pan.
+2. Place dough ball in pan.
+3. Stretch dough to four corners of pan.
+4. Add pizza sauce.
+5. Add shredded mozzarella.
+6. Add bacon.
+7. Add mushrooms.
+8. Add spinach.
 
 **Oven**
 
