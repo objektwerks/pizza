@@ -15,7 +15,9 @@ Phase 1
 -------
 1. Cut cabbage into bite-size pieces; and place in large bowl.
 2. Poor cold water on kimchi.
-3. Soak cabbage in bowl with kosher salt for 2+ hours.
+3. Shake kosher salt on kichi.
+4. Mix.
+5. Let cabbage soak for 2+ hours.
 
 Phase 2
 -------
