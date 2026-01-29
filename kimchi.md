@@ -23,9 +23,9 @@ Cabbage
 Flour
 -----
 1. Add 1 tablespoon of rice flour to a sauce pan.
-2. Add 1 cup of water to the same sauce pan.
+2. Add 1 cup of water to the sauce pan.
 3. While constantly mixing, heat sauce pan.
-4. Mix until a paste forms.
+4. Mix until a white paste forms.
 
 Sauce
 -----
