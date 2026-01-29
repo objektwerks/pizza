@@ -13,8 +13,8 @@ Ingredients
 
 Phase 1
 -------
-1. Cut cabbage into bite-size pieces
-2. Soak cabbage in bowl with kosher salt for 2+ hours
+1. Cut cabbage into bite-size pieces.
+2. Soak cabbage in bowl with kosher salt for 2+ hours.
 
 Phase 2
 -------
