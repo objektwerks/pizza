@@ -15,4 +15,5 @@ Cook
 ----
 1. Place rice in large skillet; and spread out.
 2. Pour roasted sesame oil, in even rows, over rice.
-3. Integrate gochujang with rice; and mix well.
+3. Integrate gochujang with rice; and mix well until all white rice is colored.
+4. 
