@@ -38,6 +38,6 @@ Phase 4
 3. Add 1+ tablespons of phase 3 kimchi sauce to cabbage.
 4. Wearing plastic gloves, mix kimchi sauce with cabbage.
 5. Place seasoned cabbage into kimchi container.
-6. Repeat steps 1 to 4 as required.
+6. Repeat steps 2 to 5 as required.
 7. Place kimchi container inside fridge.
 8. Eat kimchi after 3+ days of fermentation.
