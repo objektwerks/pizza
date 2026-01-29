@@ -35,8 +35,8 @@ Sauce
 4. Add 1 tablespoon of gochujang.
 5. Mix in the phase 2 rice flour paste.
 
-Phase 4
--------
+Assemble
+--------
 1. Drain and rinse cabbage, keeping cabbage in a bowl
 2. Place part or all of the drained cabbage in a steel bowl.
 3. Add 1+ tablespons of phase 3 kimchi sauce to cabbage.
