@@ -8,6 +8,7 @@ Ingredients
 2. Momoya Kimuchi no Moto Kimchee Base
 3. Rice Flour
 4. Fish Oil
+5. Gochugaru ( Korean Red Pepper )
 
 Phase 1
 -------
