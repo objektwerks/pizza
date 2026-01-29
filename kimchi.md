@@ -9,7 +9,7 @@ Ingredients
 3. Rice Flour
 4. Fish Oil
 5. Gochugaru ( Korean Red Pepper )
-6. Gochujang ( Korean Dark Paste )
+6. Gochujang ( Korean Hot Pepper Paste )
 
 Phase 1
 -------
