@@ -15,7 +15,7 @@ Cook
 ----
 1. Place rice in large skillet; and spread out evenly.
 2. Pour roasted sesame oil, in even rows, over rice.
-3. Integrate gochujang with rice; and mix well until all white rice is colored.
+3. Integrate gochujang with rice; and mix well.
 4. Pour kimchi liquid over center of rice; and mix well.
 5. Integrate kimchi with rice; and mix well.
 6. Continually mix well for 5 minutes.
