@@ -7,7 +7,7 @@ Ingredients
 1. Rice ( 1 cup, cooked )
 2. Roasted Sesame Oil ( 4 tablespoons )
 3. Gochujang ( 4 tablespoons ) ( Korean Hot Pepper Paste )
-4. Kimchi Liquid ( 1/4 cup )
+4. Kimchi Liquid ( 1/4 cup, sourced from kimchi container )
 5. Kimchi ( 1/2 cup )
 >All ingredients can adjusted to taste.
 
