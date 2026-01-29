@@ -5,7 +5,7 @@ Kimchi Recipe
 Ingredients
 -----------
 1. Napa Cabbage
-2. Momoya Kimuchi no Moto Kimchee Base
+2. Momoya Kimuchi no Moto Kimchee Base ( or similar product )
 3. Rice Flour
 4. Fish Oil
 5. Gochugaru ( Korean Red Pepper )
