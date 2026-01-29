@@ -9,7 +9,7 @@ Ingredients
 3. Gochujang ( 4 tablespoons ) ( Korean Hot Pepper Paste )
 4. Kimchi Liquid ( 1/4 cup, sourced from kimchi container )
 5. Kimchi ( 1/2 cup )
->All ingredients can adjusted to taste.
+>Adjust ingredients to taste.
 
 Cook
 ----
