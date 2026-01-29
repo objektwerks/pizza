@@ -33,7 +33,7 @@ Sauce
 2. Add 1 tablespoon of fish oil.
 3. Add 1 tablespoon of gochugaru.
 4. Add 1 tablespoon of gochujang.
-5. Mix in the phase 2 rice flour paste.
+5. Mix in the rice flour paste.
 
 Assemble
 --------
