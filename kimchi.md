@@ -2,8 +2,10 @@ Kimchi Recipe
 -------------
 >Basic kimchi recipe.
 
-Napa Cabbage - 2
-Momoya Kimuchi no Moto Kimchee Base - 1 15oz bottle
+Ingredients
+-----------
+1. Napa Cabbage
+2. Momoya Kimuchi no Moto Kimchee Base
 
 Phase 1
 -------
