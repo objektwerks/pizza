@@ -47,4 +47,4 @@ Assemble
 7. Place kimchi container inside fridge.
 8. Eat kimchi after 3+ days of slow fermentation.
 >Ideally, invest in a $20 Korean kimchi container! Alternatively, a mason jar will also work.
->For faster fermentation, place kimchi container on kitchen counter for 1+ days.
+>For faster initial fermentation, place kimchi container in shaded kitchen area for 1-2 days.
