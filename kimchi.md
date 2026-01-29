@@ -14,8 +14,7 @@ Ingredients
 Phase 1
 -------
 1. Cut cabbage into bite-size pieces
-2. Soak cabbage in bowl with kosher salt for 3+ hours
-3. Drain and rinse cabbage, keeping cabbage in a bowl
+2. Soak cabbage in bowl with kosher salt for 2+ hours
 
 Phase 2
 -------
@@ -34,10 +33,11 @@ Phase 3
 
 Phase 4
 -------
-1. Place part or all of the drained cabbage in a steel bowl.
-2. Add 1+ tablespons of phase 3 kimchi sauce to cabbage.
-3. Wearing plastic gloves, mix kimchi sauce with cabbage.
-4. Place seasoned cabbage into kimchi container.
-5. Repeat steps 1 to 4 as required.
-6. Place kimchi container inside fridge.
-7. Eat kimchi after 3+ days of fermentation.
+1. Drain and rinse cabbage, keeping cabbage in a bowl
+2. Place part or all of the drained cabbage in a steel bowl.
+3. Add 1+ tablespons of phase 3 kimchi sauce to cabbage.
+4. Wearing plastic gloves, mix kimchi sauce with cabbage.
+5. Place seasoned cabbage into kimchi container.
+6. Repeat steps 1 to 4 as required.
+7. Place kimchi container inside fridge.
+8. Eat kimchi after 3+ days of fermentation.
