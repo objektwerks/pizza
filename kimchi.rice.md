@@ -10,3 +10,8 @@ Ingredients
 4. Kimchi Liquid ( 1/4 cup )
 5. Kimchi ( 1/2 cup )
 >All ingredients can adjusted to taste.
+
+Cook
+----
+1. Place rice in large skillet; and spread out.
+2. Pour roasted sesame oil, in even rows, over rice.
