@@ -29,8 +29,8 @@ Phase 3
 1. Pour kimchi base in steel bowl ( 7oz should work )
 2. Add 1 tablespoon of fish oil
 3. Mix in the phase 2 rice flour paste
-4. Add 1 tablespoon of gochugaru ( korean red pepper )
-5. Add 1 tablespoon of gochujang ( korean dark paste )
+4. Add 1 tablespoon of gochugaru
+5. Add 1 tablespoon of gochujang
 
 Phase 4
 -------
