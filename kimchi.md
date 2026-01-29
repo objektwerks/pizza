@@ -11,7 +11,7 @@ Ingredients
 5. Gochugaru ( Korean Red Pepper )
 6. Gochujang ( Korean Hot Pepper Paste )
 
-Phase 1
+Cabbage
 -------
 1. Cut cabbage into bite-size pieces
 2. Place cabbage in large bowl.
