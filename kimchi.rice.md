@@ -5,8 +5,8 @@ Kimchi Rice Recipe
 Ingredients
 -----------
 1. Rice ( 1 cup, cooked )
-2. Roasted Sesame Oil ( 4 tablespoons )
-3. Gochujang ( 4 tablespoons ) ( Korean Hot Pepper Paste )
+2. Japanese Roasted Sesame Oil ( 4 tablespoons )
+3. Korean Gochujang ( 4 tablespoons ) ( Korean Hot Pepper Paste )
 4. Kimchi Liquid ( 1/4 cup, sourced from kimchi container )
 5. Kimchi ( 1/2 cup )
 >Adjust ingredients to taste.
