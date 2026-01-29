@@ -13,11 +13,12 @@ Ingredients
 
 Phase 1
 -------
-1. Cut cabbage into bite-size pieces; and place in large bowl.
-2. Poor cold water on cabbage.
-3. Shake kosher salt on kichi.
-4. Mix.
-5. Let cabbage soak for 2+ hours.
+1. Cut cabbage into bite-size pieces
+2. Place cabbage in large bowl.
+3. Poor cool water on cabbage.
+4. Shake kosher salt on kichi.
+5. Mix.
+6. Let cabbage soak for 2+ hours.
 
 Phase 2
 -------
