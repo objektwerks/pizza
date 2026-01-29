@@ -40,4 +40,4 @@ Phase 4
 5. Place seasoned cabbage into kimchi container.
 6. Repeat steps 2 to 5 as required.
 7. Place kimchi container inside fridge.
-8. Eat kimchi after 3+ days of fermentation.
+8. Eat kimchi after 3+ days of slow fermentation.
