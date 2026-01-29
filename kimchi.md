@@ -25,7 +25,7 @@ Phase 2
 
 Phase 3
 -------
-1. Pour kimchi base in steel bowl ( 7oz ).
+1. Pour 7 oz of kimchi base in steel bowl.
 2. Add 1 tablespoon of fish oil.
 3. Mix in the phase 2 rice flour paste.
 4. Add 1 tablespoon of gochugaru.
