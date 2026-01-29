@@ -27,9 +27,9 @@ Flour
 3. While constantly mixing, heat sauce pan.
 4. Mix until a paste forms.
 
-Phase 3
--------
-1. Pour 7 oz of kimchi base in steel bowl.
+Sauce
+-----
+1. Pour 7 oz of kimchi base in bowl.
 2. Add 1 tablespoon of fish oil.
 3. Add 1 tablespoon of gochugaru.
 4. Add 1 tablespoon of gochujang.
