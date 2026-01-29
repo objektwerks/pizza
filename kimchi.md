@@ -7,6 +7,7 @@ Ingredients
 1. Napa Cabbage
 2. Momoya Kimuchi no Moto Kimchee Base
 3. Rice Flour
+4. Fish Oil
 
 Phase 1
 -------
