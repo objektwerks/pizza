@@ -2,6 +2,8 @@ Kimchi Recipe
 -------------
 >Basic kimchi recipe.
 
+>Korean kimchi masters tend to avoid using a ***kimchi base*** sauce.
+
 Ingredients
 -----------
 1. Napa Cabbage ( 1 head )
