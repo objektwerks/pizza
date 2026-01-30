@@ -1,8 +1,6 @@
 Kimchi Recipe
 -------------
->Basic kimchi recipe.
-
->Korean kimchi masters tend to avoid using a ***kimchi base*** sauce.
+>Basic kimchi recipe. Study Korean chefs for ideas on how they make kimchi.
 
 Ingredients
 -----------
@@ -25,7 +23,7 @@ Flour
 1. Add 1 tablespoon of rice flour to a sauce pan.
 2. Add 1 cup of water to the sauce pan.
 3. Set sauce pan stove burner to high.
-4. Mix constantly until a white paste forms.
+4. Mix constantly until a white paste forms. ( the binding agent between cabbage and sauce )
 
 Sauce
 -----
