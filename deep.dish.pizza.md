@@ -50,7 +50,7 @@ Deep Dish Pizza
 3. Place empty baking pan with boiling water in oven.
 4. Pre-heat oven @ 450 degrees.
 
-**Baking**
+**Bake**
 
 1. Slide pizza into oven.
 2. Bake @ 15 minutes.
