@@ -49,5 +49,6 @@ Assemble
 Fermentation
 ------------
 1. Place kimchi container inside fridge.
-2. Sample kimchi after 3+ days of fermentation.
+2. Allow kimchi to ferment for 3+ days.
+3. Eat kimchi.
 >For faster initial fermentation, place kimchi container in shaded kitchen area for 1-2 days.
