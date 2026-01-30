@@ -11,12 +11,12 @@ Ingredients
 5. Fish Sauce ( 3 Crab Fish Sauce is very popular; even with Koreans )
 6. Rice Flour
 
-Cabbage
--------
+Brine
+-----
 1. Cut cabbage into bite-size pieces. ( Koreans tend to slice a napa cabbage into quarters )
 2. Place cabbage in bowl.
 3. Mix in cool water and kosher salt to create a brine.
-4. Let the cabbage brine soak for 2+ hours. ( Koreans tend to favor 6+ hours )
+4. Let the cabbage soak for 2+ hours. ( Koreans tend to favor 6+ hours )
 
 Flour
 -----
