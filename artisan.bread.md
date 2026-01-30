@@ -39,7 +39,7 @@ Artisan Bread Recipes
 2. Place dough ball in coverable container - then cover.
 3. Ferment dough ball for 2 - 4 hours @ room temperature. Optionally ferment dough overnight.
 
-**Shaping**
+**Shape**
 
 1. Spread flour on board.
 2. Place dough ball on board - sprinkle flour on dough ball.
