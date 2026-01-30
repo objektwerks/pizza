@@ -52,7 +52,7 @@ Artisan Bread Recipes
 1. Place Dutch oven in oven.
 2. Pre-heat oven @ 450 degrees.
 
-**Baking**
+**Bake**
 
 1. Remove Dutch oven from oven.
 2. Place bread, contained in parchment paper, in Dutch oven.
