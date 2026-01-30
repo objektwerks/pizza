@@ -15,10 +15,8 @@ Cabbage
 -------
 1. Cut cabbage into bite-size pieces. ( Koreans tend cut a napa cabbage in quarters )
 2. Place cabbage in large bowl.
-3. Poor cool water on cabbage.
-4. Shake kosher salt on cabbage.
-5. Mix, adding cool water and kosher salt as required.
-6. Let cabbage soak for 2+ hours.
+3. Mix in cool water and kosher salt to create a brine.
+4. Let cabbage soak for 2+ hours. ( Koreans tend to favor 6+ hours )
 
 Flour
 -----
