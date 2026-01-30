@@ -39,7 +39,7 @@ Assemble
 1. Drain and rinse off cabbage, keeping cabbage in a bowl.
 2. Place a portion of the drained cabbage in a steel bowl.
 3. Add 3+ tablespons of kimchi sauce to cabbage.
-4. Wearing plastic gloves, mix kimchi sauce with cabbage.
+4. Mix kimchi sauce with cabbage. ( ideally wearing plastic gloves )
 5. Place freshly sauced cabbage into a kimchi container.
 6. Repeat steps 2 to 5 as required.
 7. Place kimchi container inside fridge.
