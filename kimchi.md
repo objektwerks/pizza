@@ -34,14 +34,17 @@ Sauce
 5. Add rice flour paste.
 6. Mix thoroughly.
 
+Prep
+----
+1. Drain and rinse off cabbage, keeping cabbage in bowl.
+
 Assemble
 --------
-1. Drain and rinse off cabbage, keeping cabbage in bowl.
-2. Place a portion of the drained cabbage in a bowl.
-3. Add 3+ tablespons of kimchi sauce to cabbage.
-4. Mix kimchi sauce with cabbage. ( ideally wearing plastic gloves )
-5. Place freshly sauced cabbage into a kimchi container. ( ideally, invest in a $20 Korean kimchi container )
-6. Repeat steps 2 to 5 as required.
-7. Place kimchi container inside fridge.
-8. Eat kimchi after 3+ days of fermentation.
+1. Place a portion of the drained cabbage in a new bowl.
+2. Add 3+ tablespons of kimchi sauce to cabbage.
+3. Mix kimchi sauce with cabbage. ( ideally wearing plastic gloves )
+4. Place freshly sauced cabbage into a kimchi container. ( ideally, invest in a $20 Korean kimchi container )
+5. Repeat steps 1 to 4 as required.
+6. Place kimchi container inside fridge.
+7. Eat kimchi after 3+ days of fermentation.
 >For faster initial fermentation, place kimchi container in shaded kitchen area for 1-2 days.
