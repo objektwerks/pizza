@@ -18,5 +18,5 @@ Cook
 3. Integrate gochujang with rice; and mix well.
 4. Pour kimchi liquid over rice; and mix well.
 5. Integrate kimchi with rice; and mix well.
-6. Continually mix well for 5 minutes.
-7. Serve in bowl.
+6. Continually mix well for 3 minutes.
+7. Serve piping hot in a bowl.
