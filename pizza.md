@@ -61,4 +61,4 @@
 2. Bake @ 3+ minutes.
 3. Inspect pizza intermittingly.
 4. Remove pizza from oven and slice.
->Expect 3 - 9 minutes, depending on oven type and temperature.
+>Expect 3-9 minutes, depending on oven type and temperature.
