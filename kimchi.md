@@ -13,7 +13,7 @@ Ingredients
 
 Cabbage
 -------
-1. Cut cabbage into bite-size pieces.
+1. Cut cabbage into bite-size pieces. ( Koreans tend cut a napa cabbage in quarters )
 2. Place cabbage in large bowl.
 3. Poor cool water on cabbage.
 4. Shake kosher salt on cabbage.
