@@ -8,7 +8,7 @@ Ingredients
 2. Momoya Kimuchi no Moto Kimchee Base ( or similar product )
 3. Gochugaru ( Korean Red Pepper )
 4. Gochujang ( Korean Hot Pepper Paste )
-5. Fish Oil ( preferrably Korean )
+5. Fish Sauce ( preferrably Korean )
 6. Rice Flour
 
 Cabbage
