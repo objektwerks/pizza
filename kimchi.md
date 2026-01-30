@@ -27,7 +27,7 @@ Flour
 
 Sauce
 -----
-1. Pour 6+ oz of kimchi base in bowl.
+1. Pour 6+ oz of kimchi base in a bowl.
 2. Add 1 tablespoon of gochugaru.
 3. Add 1 tablespoon of gochujang.
 4. Add 1 tablespoon of fish sauce.
