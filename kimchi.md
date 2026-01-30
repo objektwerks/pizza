@@ -40,9 +40,8 @@ Assemble
 2. Place a portion of the drained cabbage in a steel bowl.
 3. Add 3+ tablespons of kimchi sauce to cabbage.
 4. Mix kimchi sauce with cabbage. ( ideally wearing plastic gloves )
-5. Place freshly sauced cabbage into a kimchi container.
+5. Place freshly sauced cabbage into a kimchi container. ( ideally, invest in a $20 Korean kimchi container )
 6. Repeat steps 2 to 5 as required.
 7. Place kimchi container inside fridge.
 8. Eat kimchi after 3+ days of fermentation.
->Ideally, invest in a $20 Korean kimchi container! Alternatively, a mason jar will also work.
 >For faster initial fermentation, place kimchi container in shaded kitchen area for 1-2 days.
