@@ -5,10 +5,10 @@ Kimchi Recipe
 Ingredients
 -----------
 1. Napa Cabbage ( 1 head )
-2. Momoya Kimuchi no Moto **Kimchee Base** ( recommend: https://tinyurl.com/4a3wuucz )
-3. Gochugaru ( Korean Red Pepper ) ( recommend: https://tinyurl.com/ynrwatdc )
-4. Gochujang ( Korean Hot Pepper Paste ) ( recommend: https://tinyurl.com/2s3bnr2e )
-5. Fish Sauce ( recommend: https://tinyurl.com/yrf73brc )
+2. Momoya Kimuchi no Moto **Kimchee Base** ( see: https://tinyurl.com/4a3wuucz )
+3. Gochugaru ( Korean Red Pepper ) ( see: https://tinyurl.com/ynrwatdc )
+4. Gochujang ( Korean Hot Pepper Paste ) ( see: https://tinyurl.com/2s3bnr2e )
+5. Fish Sauce ( see: https://tinyurl.com/yrf73brc )
 6. Rice Flour
 
 Brine
