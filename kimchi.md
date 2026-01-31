@@ -9,7 +9,7 @@ Ingredients
 3. Gochugaru ( Korean Red Pepper ) ( https://tinyurl.com/ynrwatdc )
 4. Gochujang ( Korean Hot Pepper Paste ) ( https://tinyurl.com/2s3bnr2e )
 5. Fish Sauce ( https://tinyurl.com/yrf73brc )
-6. Rice Flour
+6. Rice Flour ( https://tinyurl.com/4a2ku98n )
 
 Brine
 -----
