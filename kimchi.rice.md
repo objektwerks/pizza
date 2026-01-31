@@ -13,7 +13,7 @@ Ingredients
 
 Cook
 ----
-1. Place rice in large skillet; and spread out evenly.
+1. Place rice in a large skillet; and spread out evenly.
 2. Pour roasted sesame oil evenly over rice.
 3. Integrate gochujang with rice; and mix well.
 4. Pour kimchi liquid over rice; and mix well.
