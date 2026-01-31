@@ -7,7 +7,7 @@ Ingredients
 1. Napa Cabbage ( 1 head )
 2. Momoya Kimuchi no Moto **Kimchee Base** ( or similar kimchi base )
 3. Gochugaru ( Korean Red Pepper )
-4. Gochujang ( Korean Hot Pepper Paste )
+4. Gochujang ( Korean Hot Pepper Paste ) ( recommend: https://shorturl.at/sJsN7 )
 5. Fish Sauce ( 3 Crab Fish Sauce is very popular; especially with US Koreans )
 6. Rice Flour
 
