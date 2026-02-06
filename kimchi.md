@@ -16,13 +16,6 @@ Brine
 3. Mix in cool water and kosher salt to create a brine.
 4. Let the cabbage soak for 2+ hours. ( Koreans tend to favor 6+ hours )
 
-Flour
------
-1. Add 1 tablespoon of rice flour to a sauce pan.
-2. Add 1 cup of water to the sauce pan.
-3. Set sauce pan stove burner to high.
-4. Mix constantly until a white paste forms. ( the binding agent between cabbage and sauce )
-
 Sauce
 -----
 1. Pour 6+ oz of kimchi base in a bowl.
