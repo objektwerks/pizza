@@ -27,11 +27,10 @@ Flour
 Sauce
 -----
 1. Pour 6+ oz of kimchi base in a bowl.
-2. Add 1 tablespoon of gochugaru.
-3. Add 1 tablespoon of gochujang.
-4. Add 1 tablespoon of fish sauce.
-5. Add rice flour paste.
-6. Mix thoroughly.
+2. Add 2 tablespoons of gochujang.
+3. Add 2 tablespoons of fish sauce.
+4. Add rice flour paste.
+5. Mix thoroughly.
 
 Prep
 ----
