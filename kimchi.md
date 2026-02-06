@@ -6,10 +6,9 @@ Ingredients
 -----------
 1. Napa Cabbage ( 1 head )
 2. Momoya Kimuchi no Moto **Kimchee Base** ( https://tinyurl.com/4a3wuucz )
-3. Gochugaru ( Korean Red Pepper ) ( https://tinyurl.com/ynrwatdc )
-4. Gochujang ( Korean Hot Pepper Paste ) ( https://tinyurl.com/2s3bnr2e )
-5. Fish Sauce ( https://tinyurl.com/yrf73brc )
-6. Rice Flour ( https://tinyurl.com/4a2ku98n )
+3. Gochujang ( Korean Hot Pepper Paste ) ( https://tinyurl.com/2s3bnr2e )
+4. Fish Sauce ( https://tinyurl.com/yrf73brc )
+5. Rice Flour ( https://tinyurl.com/4a2ku98n )
 
 Brine
 -----
