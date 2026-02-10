@@ -11,7 +11,7 @@ Artisan Bread Recipes
 
 **Rye Ingredients**
 
-1. 315 grams water @ 100F / 37C degrees ( 1 1/3 cup ) ( 70% hydration ).
+1. 270 grams water @ 100F / 37C degrees ( 1 cup ) ( 60% hydration ).
 2. 3 grams yeast ( fresh, active or instant ) (  teaspoons ).
 3. 315 grams bread flour ( 2 1/2 cups ).
 4. 135 grams rye flour ( 1 1/3 cups )
