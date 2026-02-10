@@ -4,14 +4,14 @@ Artisan Bread Recipes
 
 **Basic Ingredients**
 
-1. 315 grams water @ 100F / 37C degrees ( 1 1/3 cup ).
+1. 315 grams water @ 100F / 37C degrees ( 1 1/3 cup ) ( 70% hydration ).
 2. 3 grams yeast ( fresh, active or instant ) ( 1 teaspoon ).
 3. 450 grams bread flour ( 3 1/2 cups ).
 4. 7 grams sea salt ( 2 teaspoons ).
 
 **Rye Ingredients**
 
-1. 315 grams water @ 100F / 37C degrees ( 1 1/3 cup ).
+1. 315 grams water @ 100F / 37C degrees ( 1 1/3 cup ) ( 70% hydration ).
 2. 3 grams yeast ( fresh, active or instant ) (  teaspoons ).
 3. 315 grams bread flour ( 2 1/2 cups ).
 4. 135 grams rye flour ( 1 1/3 cups )
@@ -19,7 +19,7 @@ Artisan Bread Recipes
 
 **Sourdough Ingredients**
 
-1. 315 grams water @ 100F / 37C degrees ( 1 1/3 cup ).
+1. 315 grams water @ 100F / 37C degrees ( 1 1/3 cup ) ( 70% hydration ).
 2. 450 grams bread flour ( 3 1/4 cups ).
 3. 45 grams sourdough starter ( 4 tablespoons, 10% of 450 grams bread flour ).
 4. 7 grams sea salt ( 2 teaspoons ).
