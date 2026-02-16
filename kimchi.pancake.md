@@ -24,6 +24,7 @@ Oven
 ----
 1. Place 8 inch bakinng pan or alternative in oven.
 2. Pre-heat oven @ 450 degrees.
+>A cast iron skillet or grill works well.
 
 Prepare
 -------
