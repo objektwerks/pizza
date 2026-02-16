@@ -20,6 +20,7 @@ Batter
 3. Mix in kimchi liquid.
 4. Mix in gochujang.
 5. Mix in roasted sesame oil.
+6. Cut and mix in scallions.
 
 Oven
 ----
