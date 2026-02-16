@@ -29,3 +29,4 @@ Prepare
 -------
 1. Remove baking pan or alternative from oven.
 2. Spread kimchi pancake batter evenly across baking pan.
+3. Place baking pan in oven.
