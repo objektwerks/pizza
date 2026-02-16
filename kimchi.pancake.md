@@ -35,3 +35,4 @@ Bake
 5. Bake @ 20 minutes.
 6. Inspect kimchi pancake intermittingly.
 7. Remove baking pan from oven and slice.
+>Alternatively, a skillet and stove can be used.
