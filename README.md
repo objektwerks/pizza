@@ -5,4 +5,5 @@ Recipes
 * [Pizza](./pizza.md)
 * [Deep Dish Pizza](./deep.dish.pizza.md)
 * [Kimchi](./kimchi.md)
+* [Kimchi Pancake](./kimchi.pancake.md)
 * [Kimchi Rice](./kimchi.rice.md)
