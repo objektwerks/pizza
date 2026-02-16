@@ -12,3 +12,6 @@ Ingredients
 6. Japanese Roasted Sesame Oil ( 1 tablespoon )
 >Adjust ingredients to taste.
 
+Bake
+----
+1. Pre-heat oven @ 450 degrees.
