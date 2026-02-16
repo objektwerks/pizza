@@ -22,7 +22,7 @@ Batter
 
 Oven
 ----
-1. Place bakinng pan or alternative in oven.
+1. Place 8 inch bakinng pan or alternative in oven.
 2. Pre-heat oven @ 450 degrees.
 
 Prepare
