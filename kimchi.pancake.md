@@ -12,11 +12,17 @@ Ingredients
 6. Japanese Roasted Sesame Oil ( 1 tablespoon )
 >Adjust ingredients to taste.
 
+Build
+-----
+1. Mix in flour.
+2. Mix in water and stir.
+3. 
+
 Oven
 ----
 1. Place bakinng pan or alternative in oven.
 2. Pre-heat oven @ 450 degrees.
 
-Bake
-----
-1. 
+Prepare
+-------
+1. Remove
