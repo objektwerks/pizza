@@ -12,8 +12,8 @@ Ingredients
 6. Japanese Roasted Sesame Oil ( 1 tablespoon )
 >Adjust ingredients to taste.
 
-Build
------
+Batter
+------
 1. Mix in flour.
 2. Mix in water.
 3. Mix in kimchi liquid.
@@ -27,4 +27,5 @@ Oven
 
 Prepare
 -------
-1. Remove
+1. Remove baking pan or alternative from oven.
+2. Spread kimchi pancake batter evenly across baking pan.
