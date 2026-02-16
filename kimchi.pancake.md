@@ -31,10 +31,9 @@ Oven
 Bake
 ----
 1. Remove baking pan from oven.
-2. Oil baking pan.
-3. Spread kimchi pancake batter evenly across baking pan.
-4. Place baking pan in oven.
-5. Bake @ 20 minutes.
-6. Inspect kimchi pancake intermittingly.
-7. Remove baking pan from oven and slice.
+2. Spread kimchi pancake batter evenly across baking pan.
+3. Place baking pan in oven.
+4. Bake @ 20 minutes.
+5. Inspect kimchi pancake intermittingly.
+6. Remove baking pan from oven and slice.
 >Alternatively, a skillet and stove can be used.
