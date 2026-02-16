@@ -26,8 +26,8 @@ Oven
 2. Pre-heat oven @ 450 degrees.
 >A cast iron skillet or grill works well.
 
-Prepare
--------
+Bake
+----
 1. Remove baking pan or alternative from oven.
 2. Oil baking pan.
 3. Spread kimchi pancake batter evenly across baking pan.
