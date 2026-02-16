@@ -32,5 +32,5 @@ Prepare
 3. Spread kimchi pancake batter evenly across baking pan.
 4. Place baking pan in oven.
 5. Bake @ 20 minutes.
-6. Inspect pizza intermittingly.
-7. Remove pizza from oven and slice.
+6. Inspect kimchi pancake intermittingly.
+7. Remove baking pan from oven and slice.
