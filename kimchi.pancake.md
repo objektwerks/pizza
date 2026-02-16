@@ -15,8 +15,10 @@ Ingredients
 Build
 -----
 1. Mix in flour.
-2. Mix in water and stir.
-3. 
+2. Mix in water.
+3. Mix in kimchi liquid.
+4. Mix in gochujang.
+5. Mix in roasted sesame oil.
 
 Oven
 ----
