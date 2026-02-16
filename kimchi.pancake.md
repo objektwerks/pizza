@@ -10,3 +10,4 @@ Ingredients
 4. Kimchi Liquid ( 3+ tablespoons, sourced from kimchi container )
 5. Gochujang ( 1 tablespoon )
 6. Japanese Roasted Sesame Oil ( 1 tablespoon )
+>Adjust ingredients to taste.
