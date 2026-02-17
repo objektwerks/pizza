@@ -41,7 +41,7 @@ Build
 2. Add grated parmesan to bottom of baking pan.
 3. Place dough ball in pan.
 4. Stretch dough evenly throughout pan.
-5. Optionally press dough downwards with fingers, like focaccia.
+5. Optionally press dough downwards with fingers - focaccia style.
 6. Add toppings and seasonings.
 
 Oven
