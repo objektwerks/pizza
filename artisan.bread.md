@@ -16,8 +16,8 @@ Sourdough Ingredients
 3. 45 grams sourdough starter ( 4 tablespoons, 10% of 450 grams bread flour ).
 4. 7 grams sea salt ( 2 teaspoons ).
 
-**Dough**
-
+Dough
+-----
 1. Pour water @ 100F / 37C degrees into a bowl - stir in yeast or sourdough starter.
 2. Add flour.
 3. Add sea salt.
