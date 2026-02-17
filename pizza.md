@@ -1,6 +1,6 @@
 Pizza Recipe
 ------------
->Basic 12" pizza recipe, with sourdough option.
+>Basic 12" pizza recipe.
 
 Basic Ingredients
 -----------------
@@ -10,15 +10,6 @@ Basic Ingredients
 4. 7 grams sea salt ( 2 teaspoons ).
 5. 113 grams pizza sauce ( 1/2 cup ).
 6. 170 grams shredded mozzarella ( 1 3/4 cups ).
-
-Sourdough Ingredients
----------------------
-1. 144 grams water @ 100F / 37C degrees, @ 60% hydration ( 1/2 cup ).
-2. 24 grams sourdough starter ( 2 tablespoons, 10% of 240 grams 00 pizza flour ).
-3. 240 grams 00 piza flour ( 1 2/3 cup ).
-4. 7 grams sea salt ( 2 teaspoons ).
-5. 113 grams pizza sauce ( 1/2 cup ).
-6. 170 grams shredded mozzarella ( 1 1/2 cups ).
 
 Dough
 -----
