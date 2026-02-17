@@ -1,5 +1,5 @@
-12” Pizza Recipes
------------------
+Pizza Recipe
+------------
 >Basic and sourdough pizza recipes.
 
 Basic Ingredients
