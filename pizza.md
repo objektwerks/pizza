@@ -31,14 +31,14 @@ Shape
 1. Spread flour ***or*** cornmeal on board.
 2. Place dough ball on board - sprinkle flour on dough ball.
 3. Shape dough into 12” circle, gently using fingers, hands and/or roller.
-4. Pre-heat oven @ 550+ degrees.
+4. Pre-heat oven @ 450+ degrees.
 >It may be a conventional or pizza oven.
 
-Toppings
---------
+Build
+-----
 1. Spread flour ***or*** cornmeal on pizza peel ***or*** pizza pan.
 2. Place shaped dough on pizza peel ***or*** pizza pan.
-3. Add tomatoes and mozzarella.
+3. Add sauce and mozzarella.
 4. Optionally add extra toppings and seasonings.
 >Optionally build pizza on board - then place on pizza peel ***or*** pizza pan.
 
