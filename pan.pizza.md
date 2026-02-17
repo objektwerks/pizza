@@ -51,8 +51,8 @@ Oven
 3. Place empty baking pan with boiling water in oven.
 4. Pre-heat oven @ 450 degrees.
 
-**Bake**
-
+Bake
+----
 1. Slide pizza into oven.
 2. Bake @ 15 minutes.
 3. Inspect pizza intermittingly.
