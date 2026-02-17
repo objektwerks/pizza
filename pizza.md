@@ -39,7 +39,7 @@ Build
 1. Spread flour ***or*** cornmeal on pizza peel ***or*** pizza pan.
 2. Place shaped dough on pizza peel ***or*** pizza pan.
 3. Add sauce and mozzarella.
-4. Optionally add extra toppings and seasonings.
+4. Add additional toppings and seasonings.
 
 Oven
 ----
