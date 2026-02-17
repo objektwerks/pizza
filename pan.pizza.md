@@ -19,8 +19,8 @@ Toppings
 5. 1 dozen spinach leaves.
 >Change toppings as desired.
 
-**Dough**
-
+Dough
+-----
 1. Pour water @ 100F / 37C degrees into a bowl - stir in yeast or sourdough starter.
 2. Add flour.
 3. Add olive oil.
