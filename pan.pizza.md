@@ -10,8 +10,8 @@ Ingredients
 4. 60 grams olive oil ( 1/4 cup ).
 5. 7 grams sea salt ( 2 teaspoons ).
 
-**Toppings**
-
+Toppings
+--------
 1. 240 grams pizza sauce ( 1 cup ).
 2. 230 grams shredded mozzarella ( 2 cups ).
 3. 9 strips of bacon.
