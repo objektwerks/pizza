@@ -1,6 +1,6 @@
 Artisan Bread Recipes
 ---------------------
->Artisan bread recipes - basic and sourdough - with a fundamental process.
+>Artisan bread recipes - basic and sourdough.
 
 Basic Ingredients
 -----------------
