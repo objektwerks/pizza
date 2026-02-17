@@ -1,5 +1,5 @@
-Kimchi Pancake
---------------
+Kimchi Pancake Recipe
+---------------------
 >Basic kimchi pancake recipe.
 
 Ingredients
