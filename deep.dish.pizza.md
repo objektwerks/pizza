@@ -1,6 +1,6 @@
 Deep Dish Pizza
 ---------------
->Deep dish pizza recipe.
+>Basic deep dish pizza recipe, similar to focaccia.
 
 **Ingredients**
 
