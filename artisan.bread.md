@@ -44,8 +44,8 @@ Oven
 1. Place Dutch oven in oven.
 2. Pre-heat oven @ 450 degrees.
 
-**Bake**
-
+Bake
+----
 1. Remove Dutch oven from oven.
 2. Place bread, contained in parchment paper, in Dutch oven.
 3. Place lid on Dutch oven.
