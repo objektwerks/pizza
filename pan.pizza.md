@@ -46,10 +46,7 @@ Build
 
 Oven
 ----
-1. Boil water for empty baking pan.
-2. Poor boiling water into empty baking pan.
-3. Place empty baking pan with boiling water in oven.
-4. Pre-heat oven @ 450 degrees.
+1. Pre-heat oven @ 450 degrees.
 
 Bake
 ----
