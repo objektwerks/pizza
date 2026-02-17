@@ -28,16 +28,15 @@ Fermentation
 ------------
 1. Add olive oil to bottom of coverable container.
 2. Place dough ball in coverable container - then cover.
-3. Ferment dough ball for 2 - 4 hours @ room temperature. Optionally ferment dough overnight.
+3. Ferment dough ball for 2 - 4 hours @ room temperature.
+>Optionally ferment dough overnight.
 
 Build
 -----
 1. Spread olive oil inside 9" x 13" baking pan.
-2. Add grated parmesan to bottom of baking pan.
-3. Place dough ball in pan.
-4. Stretch dough evenly throughout pan.
-5. Optionally press dough downwards with fingers - focaccia style.
-6. Add toppings and seasonings.
+2. Place dough ball in pan.
+3. Stretch dough evenly throughout pan.
+4. Add toppings and seasonings.
 
 Oven
 ----
