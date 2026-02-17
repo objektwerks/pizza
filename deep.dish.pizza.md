@@ -38,7 +38,7 @@ Deep Dish Pizza
 **Build***
 
 1. Spread olive oil inside 9" x 13" baking pan.
-2. Optionally add grated parmesan to bottom of baking pan.
+2. Add grated parmesan to bottom of baking pan.
 3. Place dough ball in pan.
 4. Stretch dough throughout pan.
 5. Add toppings.
