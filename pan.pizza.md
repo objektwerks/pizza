@@ -4,7 +4,7 @@ Pan Pizza Recipe
 
 Ingredients
 -----------
-1. 270 grams water @ 100F / 37C degrees ( 1 cup + 2 tablespoons + 1 teaspoon ) ( 60% hydration ).
+1. 165 grams water @ 100F / 37C degrees ( 1 cup + 2 tablespoons + 1 teaspoon ) ( 60% hydration ).
 2. 1 gram yeast ( 1/4 teaspoon ).
 3. 275 grams bread flour ( 3 1/2 cups ).
 4. 7 grams sea salt ( 2 teaspoons ).
