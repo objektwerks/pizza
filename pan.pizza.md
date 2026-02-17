@@ -41,8 +41,9 @@ Build
 2. Add grated parmesan to bottom of baking pan.
 3. Place dough ball in pan.
 4. Stretch dough throughout pan.
-5. Add toppings.
-9. Drizzle olive oil on top of pizza.
+5. Optionally press dough downwards with fingers, like focaccia.
+6. Add toppings.
+7. Drizzle olive oil on top of pizza.
 
 Oven
 ----
