@@ -20,8 +20,8 @@ Sourdough Ingredients
 5. 113 grams pizza sauce ( 1/2 cup ).
 6. 170 grams shredded mozzarella ( 1 1/2 cups ).
 
-**Dough**
-
+Dough
+-----
 1. Pour water @ 100F / 37C degrees into a bowl - stir in yeast.
 2. Add half of flour - mix well into smooth consistency.
 3. Add remainder of flour - over two rounds, with mixing.
