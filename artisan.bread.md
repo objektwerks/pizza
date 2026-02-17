@@ -2,8 +2,8 @@ Artisan Bread Recipes
 ---------------------
 >Artisan bread recipes - basic and sourdough - with a fundamental process.
 
-**Basic Ingredients**
-
+Basic Ingredients
+-----------------
 1. 270 grams water @ 100F / 37C degrees ( 1 cup + 2 tablespoons + 1 teaspoon ) ( 60% hydration ).
 2. 3 grams yeast ( fresh, active or instant ) ( 1 teaspoon ).
 3. 450 grams bread flour ( 3 1/2 cups ).
