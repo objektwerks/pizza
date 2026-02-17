@@ -17,13 +17,11 @@ Toppings
 
 Dough
 -----
-1. Pour water @ 100F / 37C degrees into a bowl - stir in yeast or sourdough starter.
-2. Add flour.
-3. Add olive oil.
-4. Add sea salt.
-5. Mix.
-6. Knead dough into ball.
-7. Remove dough ball from bowl and place on board - knead into smooth ball, using flour as required.
+1. Pour water @ 100F / 37C degrees into a bowl - stir in yeast.
+2. Mix in flour.
+3. Mix in sea salt.
+4. Knead dough into ball.
+5. Remove dough ball from bowl and place on board - knead into smooth ball, using flour as required.
 
 Fermentation
 ------------
