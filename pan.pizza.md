@@ -44,8 +44,8 @@ Build
 5. Add toppings.
 9. Drizzle olive oil on top of pizza.
 
-**Oven**
-
+Oven
+----
 1. Boil water for empty baking pan.
 2. Poor boiling water into empty baking pan.
 3. Place empty baking pan with boiling water in oven.
