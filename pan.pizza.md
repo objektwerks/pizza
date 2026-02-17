@@ -40,9 +40,9 @@ Build
 1. Spread olive oil inside 9" x 13" baking pan.
 2. Add grated parmesan to bottom of baking pan.
 3. Place dough ball in pan.
-4. Stretch dough throughout pan.
+4. Stretch dough evenly throughout pan.
 5. Optionally press dough downwards with fingers, like focaccia.
-6. Add toppings.
+6. Add toppings and seasonings.
 
 Oven
 ----
