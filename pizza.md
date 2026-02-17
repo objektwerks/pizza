@@ -40,7 +40,6 @@ Build
 2. Place shaped dough on pizza peel ***or*** pizza pan.
 3. Add sauce and mozzarella.
 4. Optionally add extra toppings and seasonings.
->Optionally build pizza on board - then place on pizza peel ***or*** pizza pan.
 
 Oven
 ----
@@ -52,4 +51,4 @@ Bake
 2. Bake @ 3+ minutes.
 3. Inspect pizza intermittingly.
 4. Remove pizza from oven and slice.
->Expect 3-9 minutes, depending on oven type and temperature.
+>Expect 3-10 minutes, depending on oven type and temperature.
