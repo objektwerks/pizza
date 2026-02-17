@@ -39,8 +39,8 @@ Shape
 4. Place dough on parchment paper.
 5. Score dough.
 
-**Oven**
-
+Oven
+----
 1. Place Dutch oven in oven.
 2. Pre-heat oven @ 450 degrees.
 
