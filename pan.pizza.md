@@ -1,6 +1,6 @@
 Pan Pizza Recipe
 ----------------
->Basic pan pizza recipe, similar to focaccia.
+>Basic pan pizza recipe.
 
 Ingredients
 -----------
@@ -11,12 +11,9 @@ Ingredients
 
 Toppings
 --------
-1. 240 grams pizza sauce ( 1 cup ).
-2. 230 grams shredded mozzarella ( 2 cups ).
-3. 9 strips of bacon.
-4. 454 grams of sliced mushrooms ( 16 ounces ).
-5. 1 dozen spinach leaves.
->Change toppings as desired.
+1. Tomato sauce.
+2. Shredded mozarella.
+>Alter toppings as desired.
 
 Dough
 -----
