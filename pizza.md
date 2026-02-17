@@ -43,8 +43,8 @@ Shape
 4. Pre-heat oven @ 550+ degrees.
 >It may be a conventional or pizza oven.
 
-**Toppings**
-
+Toppings
+--------
 1. Spread flour ***or*** cornmeal on pizza peel ***or*** pizza pan.
 2. Place shaped dough on pizza peel ***or*** pizza pan.
 3. Add tomatoes and mozzarella.
