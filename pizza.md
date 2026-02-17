@@ -2,8 +2,8 @@ Pizza Recipe
 ------------
 >Basic 12" pizza recipe.
 
-Basic Ingredients
------------------
+Ingredients
+-----------
 1. 144 grams water @ 100F / 37C degrees, @ 60% hydration ( 3/5 cup ).
 2. 1 gram yeast ( fresh, active or instant ) ( 1/4 teaspoon ).
 3. 240 grams 00 piza flour ( 1 7/8 cup ).
