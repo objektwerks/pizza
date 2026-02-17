@@ -1,6 +1,6 @@
 Pizza Recipe
 ------------
->Basic and sourdough pizza recipes.
+>Basic 12" pizza recipe, with sourdough option.
 
 Basic Ingredients
 -----------------
