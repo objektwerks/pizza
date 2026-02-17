@@ -17,7 +17,7 @@ Toppings
 
 Dough
 -----
-1. Pour water @ 100F / 37C degrees into a bowl
+1. Pour water @ 100F / 37C degrees into a bowl.
 2. Mix in yeast.
 3. Mix in flour.
 4. Mix in sea salt.
