@@ -8,8 +8,8 @@ Ingredients
 2. 1 gram yeast ( 1/4 teaspoon ).
 3. 240 grams 00 piza flour ( 1 7/8 cup ).
 4. 7 grams sea salt ( 2 teaspoons ).
-5. 113 grams pizza sauce ( 1/2 cup ).
-6. 170 grams shredded mozzarella ( 1 3/4 cups ).
+5. Tomato sauce.
+6. Shredded mozzarella.
 
 Dough
 -----
