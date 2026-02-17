@@ -55,8 +55,8 @@ Oven
 ----
 1. Pre-heat oven @ 450+ degrees.
 
-**Bake**
-
+Bake
+----
 1. Slide pizza into oven.
 2. Bake @ 3+ minutes.
 3. Inspect pizza intermittingly.
