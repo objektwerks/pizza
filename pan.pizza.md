@@ -1,5 +1,5 @@
-Pan Pizza
----------
+Pan Pizza Recipe
+----------------
 >Basic pan pizza recipe, similar to focaccia.
 
 **Ingredients**
