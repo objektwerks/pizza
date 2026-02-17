@@ -17,11 +17,12 @@ Toppings
 
 Dough
 -----
-1. Pour water @ 100F / 37C degrees into a bowl - stir in yeast.
-2. Mix in flour.
-3. Mix in sea salt.
-4. Knead dough into ball.
-5. Remove dough ball from bowl and place on board - knead into smooth ball, using flour as required.
+1. Pour water @ 100F / 37C degrees into a bowl
+2. Mix in yeast.
+3. Mix in flour.
+4. Mix in sea salt.
+5. Knead dough into ball.
+6. Remove dough ball from bowl and place on board - knead into smooth ball, using flour as required.
 
 Fermentation
 ------------
