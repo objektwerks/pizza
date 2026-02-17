@@ -16,7 +16,7 @@ Dough
 1. Pour water @ 100F / 37C degrees into a bowl - stir in yeast.
 2. Mix in flour.
 4. Mix in sea salt.
-5. Knead dough into ball.
+5. Knead dough into rough ball.
 6. Remove dough ball from bowl and place on board - knead into smooth ball, using flour as required.
 
 Fermentation
