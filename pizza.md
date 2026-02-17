@@ -36,7 +36,7 @@ Shape
 Build
 -----
 1. Spread semolina flour ***or*** cornmeal on pizza peel ***or*** pizza pan.
-2. Place shaped dough on pizza peel ***or*** pizza pan.
+2. Place shaped dough on pizza peel ***or*** in pizza pan.
 3. Add sauce and mozzarella.
 4. Add additional toppings and seasonings.
 >Toppings may be added under ***or*** on top of mozzarella.
