@@ -40,6 +40,7 @@ Build
 2. Place shaped dough on pizza peel ***or*** pizza pan.
 3. Add sauce and mozzarella.
 4. Add additional toppings and seasonings.
+>Toppings may be added under ***or*** on top of mozzarella.
 
 Oven
 ----
