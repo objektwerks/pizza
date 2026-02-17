@@ -51,8 +51,8 @@ Toppings
 4. Optionally add extra toppings and seasonings.
 >Optionally build pizza on board - then place on pizza peel ***or*** pizza pan.
 
-**Oven**
-
+Oven
+----
 1. Pre-heat oven @ 450+ degrees.
 
 **Bake**
