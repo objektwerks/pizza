@@ -43,7 +43,6 @@ Build
 4. Stretch dough throughout pan.
 5. Optionally press dough downwards with fingers, like focaccia.
 6. Add toppings.
-7. Drizzle olive oil on top of pizza.
 
 Oven
 ----
