@@ -35,8 +35,8 @@ Fermentation
 2. Place dough ball in coverable container - then cover.
 3. Ferment dough ball for 2 - 4 hours @ room temperature. Optionally ferment dough overnight.
 
-**Build***
-
+Build
+-----
 1. Spread olive oil inside 9" x 13" baking pan.
 2. Add grated parmesan to bottom of baking pan.
 3. Place dough ball in pan.
