@@ -48,4 +48,5 @@ Bake
 1. Place baking pan in oven.
 2. Bake @ 15+ minutes.
 3. Inspect pizza intermittingly.
-4. Remove pizza from oven and slice.
+4. Remove pizza from oven.
+5. Turn off oven; and optionally place pizza back in oven, for 3-5 minutes, to enhance crispiness.
