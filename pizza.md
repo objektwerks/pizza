@@ -36,19 +36,20 @@ Shape
 
 Build
 -----
-1. Spread semolina flour ***or*** cornmeal on pizza peel ***or*** pizza pan.
-2. Place shaped dough on pizza peel ***or*** in pizza pan.
+1. Spread semolina flour ***or*** cornmeal on pizza peel.
+2. Place shaped dough on pizza peel.
 3. Add sauce and mozzarella.
 4. Add additional toppings and seasonings.
 >Toppings should be added under ***or*** on top of mozzarella, depending on type.
 
 Oven
 ----
-1. Pre-heat oven @ 450+ degrees.
+1. Place pizza stone, steel or cast iron grill in oven.
+2. Pre-heat oven @ 450+ degrees.
 
 Bake
 ----
-1. Slide pizza into oven.
+1. Slide pizza pizza onto stone, steel or cast iron grill in oven.
 2. Bake @ 3+ minutes.
 3. Inspect pizza intermittingly.
 4. Remove pizza from oven and slice.
