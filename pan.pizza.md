@@ -37,14 +37,15 @@ Build
 2. Place dough ball in pan.
 3. Stretch dough evenly throughout pan.
 4. Add toppings and seasonings.
+>Optionally use cast iron skillet or pan.
 
 Oven
 ----
-1. Pre-heat oven @ 500 degrees.
+1. Pre-heat oven @ 500+ degrees.
 
 Bake
 ----
 1. Place baking pan in oven.
-2. Bake @ 15 minutes.
+2. Bake @ 10+ minutes.
 3. Inspect pizza intermittingly.
 4. Remove pizza from oven and slice.
