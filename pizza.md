@@ -41,7 +41,6 @@ Build
 1. Spread semolina flour ***or*** cornmeal on pizza peel.
 2. Place shaped dough on pizza peel.
 3. Add toppings and seasonings.
->Toppings should be added under ***or*** on top of mozzarella, depending on type.
 
 Oven
 ----
