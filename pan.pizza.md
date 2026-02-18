@@ -41,7 +41,7 @@ Build
 
 Oven
 ----
-1. Pre-heat oven @ 475 degrees.
+1. Pre-heat oven @ 500 degrees.
 
 Bake
 ----
