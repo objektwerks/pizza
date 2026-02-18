@@ -36,12 +36,19 @@ Build
 1. Spread olive oil inside 9" x 13" baking pan.
 2. Place dough ball in pan.
 3. Stretch dough evenly throughout pan.
-4. Add toppings and seasonings.
 >Optionally use cast iron skillet or pan.
 
 Oven
 ----
 1. Pre-heat oven @ 500 degrees.
+
+Par Bake
+--------
+1.
+
+Build
+-----
+1. Add toppings and seasonings.
 
 Bake
 ----
