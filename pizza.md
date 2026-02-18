@@ -6,7 +6,7 @@ Ingredients
 -----------
 1. 144 grams water @ 100F / 37C degrees, ( 3/5 cup ) ( 60% hydration ).
 2. 1 gram yeast ( 1/4 teaspoon ).
-3. 240 grams 00 piza flour ( 1 7/8 cup ).
+3. 240 grams 00 pizza flour ( 1 7/8 cup ).
 4. 7 grams sea salt ( 2 teaspoons ).
 
 Toppings
