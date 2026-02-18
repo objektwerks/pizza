@@ -34,7 +34,7 @@ Shape
 -----
 1. Spread semolina flour ***or*** cornmeal on board.
 2. Place dough ball on board - sprinkle flour on dough ball.
-3. Shape dough into 12” circle, gently using fingers, hands and/or roller.
+3. Shape dough into 12” circle.
 
 Build
 -----
