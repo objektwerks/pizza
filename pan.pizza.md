@@ -21,21 +21,21 @@ Dough
 2. Mix in yeast.
 3. Mix in flour.
 4. Mix in sea salt.
-5. Knead dough into rough ball.
-6. Remove dough ball from bowl and place on board - knead into smooth ball, using flour as required.
+5. No kneading required!
 
 Fermentation
 ------------
 1. Add olive oil to bottom of coverable container.
-2. Place dough ball in coverable container - then cover.
-3. Ferment dough ball for 2 - 4 hours @ room temperature.
+2. Place dough in coverable container - then cover.
+3. Ferment dough for 4 - 6 hours @ room temperature.
 >Optionally ferment dough overnight.
 
 Build
 -----
-1. Spread olive oil inside 9" x 13" baking pan.
-2. Place dough ball in pan.
-3. Stretch dough evenly throughout pan.
+1. Spread olive oil inside 15" x 12" baking pan.
+2. Place dough in pan.
+3. Let dough rest for 1 hour.
+4. Stretch dough evenly thoughout baking pan.
 >Optionally use cast iron skillet or pan.
 
 Oven
