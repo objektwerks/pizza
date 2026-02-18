@@ -37,7 +37,7 @@ Shape
 
 Build
 -----
-1. Spread semolina flour ***or*** cornmeal on pizza peel.
+1. Spread semolina flour on pizza peel.
 2. Place shaped dough on pizza peel.
 3. Add toppings and seasonings.
 
