@@ -46,6 +46,6 @@ Oven
 Bake
 ----
 1. Place baking pan in oven.
-2. Bake @ 10+ minutes.
+2. Bake @ 15+ minutes.
 3. Inspect pizza intermittingly.
 4. Remove pizza from oven and slice.
