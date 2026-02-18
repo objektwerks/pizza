@@ -13,6 +13,7 @@ Toppings
 --------
 1. Tomato sauce.
 2. Shredded mozzarella.
+>Alter toppings as desired.
 
 Dough
 -----
