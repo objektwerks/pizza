@@ -54,6 +54,6 @@ Bake
 ----
 1. Slide pizza pizza onto stone, steel or cast iron grill in oven.
 2. Bake @ 3+ minutes.
-3. Inspect pizza intermittingly.
+3. Inspect and adjust pizza intermittingly.
 4. Remove pizza from oven and slice.
 >Expect 3-10 minutes, depending on oven type and temperature.
