@@ -11,12 +11,11 @@ Ingredients
 
 Dough
 -----
-1. Pour water @ 100F / 37C degrees into a bowl - stir in yeast or sourdough starter.
-2. Add flour.
-3. Add sea salt.
-4. Mix.
-5. Knead dough into ball.
-6. Remove dough ball from bowl and place on board - knead into smooth ball, using flour as required.
+1. Pour water @ 100F / 37C degrees into a bowl.
+2. Mix in yeast.
+3. Mix in flour.
+4. Mix in sea salt.
+5. No kneading required!
 
 Fermentation
 ------------
