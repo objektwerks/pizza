@@ -19,9 +19,7 @@ Dough
 
 Fermentation
 ------------
-1. Add olive oil to bottom of coverable container.
-2. Place dough in coverable container - then cover.
-3. Ferment dough for 4 - 6 hours @ room temperature.
+1. Ferment dough for 4 - 6 hours @ room temperature in mixing bowl.
 >Optionally ferment dough overnight.
 
 Shape
