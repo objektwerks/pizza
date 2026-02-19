@@ -44,9 +44,9 @@ Oven
 Par Bake
 --------
 1. Place baking pan in oven.
-2. Bake @ 3-5 minutes.
+2. Bake @ 3+ minutes.
 3. Remove pizza from oven.
->Optionally par bake crust on stove top.
+>Optionally par bake crust on stove top @ medium-high @ 3+ minutes.
 
 Build
 -----
@@ -55,6 +55,6 @@ Build
 Bake
 ----
 1. Place baking pan in oven.
-2. Bake @ 15 minutes.
+2. Bake @ 12+ minutes.
 3. Inspect pizza intermittingly.
 4. Remove pizza from oven.
