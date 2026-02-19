@@ -33,7 +33,7 @@ Build
 -----
 1. Spread olive oil inside 15" x 10" baking pan.
 2. Place dough in pan.
-3. Let dough rest for 1 hour.
+3. Cover and let dough rest for 1-2 hours.
 4. Stretch dough evenly thoughout baking pan.
 >Optionally use cast iron skillet.
 
