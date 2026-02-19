@@ -39,12 +39,12 @@ Build
 
 Oven
 ----
-1. Pre-heat oven @ 500 degrees.
+1. Pre-heat oven @ 450 degrees.
 
 Par Bake
 --------
 1. Place baking pan in oven.
-2. Bake @ 3 minutes.
+2. Bake @ 3-5 minutes.
 3. Remove pizza from oven.
 >Optionally par bake crust on stove top.
 
