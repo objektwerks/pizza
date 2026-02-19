@@ -31,7 +31,7 @@ Fermentation
 
 Build
 -----
-1. Spread olive oil inside 15" x 10" baking pan.
+1. Spread olive oil in 15" x 10" baking pan.
 2. Place dough in pan.
 3. Cover and let dough rest for 1-2 hours.
 4. Stretch dough evenly thoughout baking pan.
