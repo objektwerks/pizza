@@ -26,7 +26,7 @@ Dough
 Fermentation
 ------------
 1. Cover bowl.
-3. Ferment dough for 4-6 hours @ room temperature.
+2. Ferment dough for 4-6 hours @ room temperature.
 >Optionally ferment dough overnight.
 
 Build
