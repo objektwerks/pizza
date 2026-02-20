@@ -53,6 +53,6 @@ Build
 Bake
 ----
 1. Place skillet in oven.
-2. Bake @ 12+ minutes.
+2. Bake @ 7+ minutes.
 3. Inspect pizza intermittingly.
 4. Remove skillet from oven.
