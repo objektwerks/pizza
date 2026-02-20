@@ -42,9 +42,10 @@ Oven
 
 Par Bake
 --------
-1. Place baking pan in oven.
+1. Place skillet in oven.
 2. Bake @ 3+ minutes.
 3. Remove pizza from oven.
+>Optionally bake crust on stove top.
 
 Build
 -----
