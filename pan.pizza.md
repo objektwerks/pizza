@@ -35,7 +35,6 @@ Build
 2. Place dough in pan.
 3. Cover and let dough rest for 1-2 hours.
 4. Stretch dough evenly thoughout baking pan.
->Optionally use a cast iron pan or skillet.
 
 Oven
 ----
