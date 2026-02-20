@@ -43,7 +43,7 @@ Oven
 Par Bake
 --------
 1. Place baking pan in oven, at lowest level.
-2. Bake @ 3+ minutes.
+2. Bake @ 3+ minutes, until bottom crust is browning.
 3. Remove baking pan from oven.
 
 Build
