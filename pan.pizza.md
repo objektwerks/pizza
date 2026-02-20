@@ -1,6 +1,6 @@
 Pan Pizza Recipe
 ----------------
->Basic pan pizza recipe.
+>Basic 15" x 10" pan pizza recipe.
 
 Ingredients
 -----------
