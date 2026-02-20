@@ -42,7 +42,7 @@ Oven
 
 Par Bake
 --------
-1. Place baking pan in oven.
+1. Place baking pan in oven, at lowest level.
 2. Bake @ 3+ minutes.
 3. Remove baking pan from oven.
 
