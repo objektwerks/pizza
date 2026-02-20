@@ -31,10 +31,10 @@ Fermentation
 
 Build
 -----
-1. Spread olive oil in baking pan.
-2. Place dough in pan.
+1. Spread olive oil in cast iron skillet.
+2. Place dough in skillet.
 3. Cover and let dough rest for 1-2 hours.
-4. Stretch dough evenly thoughout baking pan.
+4. Stretch dough evenly thoughout skillet.
 
 Oven
 ----
