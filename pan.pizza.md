@@ -6,7 +6,7 @@ Ingredients
 -----------
 1. 400 grams water @ 100F / 37C degrees ( 1 1/2 cups ) ( 80% hydration ).
 2. 3 grams yeast ( 1 teaspoon ).
-3. 500 grams flour ( 3 1/2 cups ).
+3. 500 grams flour ( 4 cups ).
 4. 7 grams sea salt ( 2 teaspoons ).
 
 Toppings
