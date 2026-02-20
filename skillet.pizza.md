@@ -38,14 +38,7 @@ Build
 
 Oven
 ----
-1. Pre-heat oven @ 450 degrees.
-
-Par Bake
---------
-1. Place skillet in oven.
-2. Bake @ 3+ minutes.
-3. Remove pizza from oven.
->Optionally bake on stove top.
+1. Pre-heat oven @ 500 degrees.
 
 Build
 -----
