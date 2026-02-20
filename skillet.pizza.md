@@ -1,6 +1,6 @@
 Skillet Pizza Recipe
 --------------------
->Basic cast iron skillet 12" pizza recipe.
+>Basic 12" cast iron skillet pizza recipe.
 
 Ingredients
 -----------
