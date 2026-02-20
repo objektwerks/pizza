@@ -29,7 +29,7 @@ Fermentation
 2. Ferment dough for 4-6 hours @ room temperature.
 >Optionally ferment dough overnight.
 
-Build
+Shape
 -----
 1. Spread olive oil in cast iron skillet.
 2. Place dough in skillet.
