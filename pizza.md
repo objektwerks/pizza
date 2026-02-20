@@ -21,9 +21,10 @@ Dough
 2. Mix in yeast.
 3. Mix in flour.
 4. Mix in sea salt.
-5. Knead dough into rough ball.
-6. Remove dough ball from bowl and place on board.
-7. Knead dough ball into smooth ball, using flour as required.
+5. Mix is spritz of olive oil.
+6. Knead dough into rough ball.
+7. Remove dough ball from bowl and place on board.
+8. Knead dough ball into smooth ball, using flour as required.
 
 Fermentation
 ------------
