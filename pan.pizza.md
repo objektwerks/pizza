@@ -44,7 +44,7 @@ Par Bake
 --------
 1. Place baking pan in oven.
 2. Bake @ 3+ minutes.
-3. Remove pizza from oven.
+3. Remove baking pan from oven.
 
 Build
 -----
