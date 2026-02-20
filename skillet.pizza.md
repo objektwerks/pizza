@@ -41,7 +41,7 @@ Oven
 Par Bake
 --------
 1. Place skillet in oven, at lowest level.
-2. Bake @ 3+ minutes, until bottom crust is browning.
+2. Bake @ 3+ minutes, until bottom crust looks firm, pale, and lightly puffed, not brown.
 3. Remove skillet from oven.
 
 Build
