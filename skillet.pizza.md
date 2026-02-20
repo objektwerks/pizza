@@ -36,6 +36,13 @@ Shape
 3. Stretch dough evenly thoughout skillet.
 4. Cover and let dough rest for 1 hour.
 
+Par Bake
+--------
+1. Heat stove to burner to medium ( 5 on a 1 to 10 scale )
+2. Place baking pan in oven.
+3. Bake @ 3+ minutes.
+4. Remove baking pan from oven.
+
 Oven
 ----
 1. Pre-heat oven @ 500 degrees.
