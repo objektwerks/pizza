@@ -55,4 +55,4 @@ Bake
 1. Place baking pan in oven.
 2. Bake @ 12+ minutes.
 3. Inspect pizza intermittingly.
-4. Remove pizza from oven.
+4. Remove baking pan from oven.
