@@ -33,8 +33,9 @@ Fermentation
 
 Shape
 -----
-1. Place dough ball on board - sprinkle flour on dough ball.
-2. Shape dough into 12” circle.
+1. Place dough ball on board.
+2. Sprinkle flour on dough ball.
+3. Shape dough into 12” circle.
 
 Oven
 ----
