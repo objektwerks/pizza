@@ -34,15 +34,15 @@ Shape
 2. Place dough in skillet.
 3. Stretch dough evenly thoughout skillet.
 
+Oven
+----
+1. Pre-heat oven @ 450 degrees.
+
 Par Bake
 --------
 1. Place skillet in oven, at lowest level.
 2. Bake @ 3+ minutes, until bottom crust is browning.
 3. Remove skillet from oven.
-
-Oven
-----
-1. Pre-heat oven @ 450 degrees.
 
 Build
 -----
