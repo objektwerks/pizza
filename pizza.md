@@ -36,16 +36,16 @@ Shape
 1. Place dough ball on board - sprinkle flour on dough ball.
 2. Shape dough into 12” circle.
 
+Oven
+----
+1. Place pizza stone, steel or cast iron grill in oven.
+2. Pre-heat oven @ 500 degrees.
+
 Build
 -----
 1. Spread semolina flour on pizza peel.
 2. Place shaped dough on pizza peel.
 3. Add toppings and seasonings.
-
-Oven
-----
-1. Place pizza stone, steel or cast iron grill in oven.
-2. Pre-heat oven @ 500 degrees.
 
 Bake
 ----
