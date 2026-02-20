@@ -38,10 +38,9 @@ Shape
 
 Par Bake
 --------
-1. Heat stove to burner to medium ( 5 on a 1 to 10 scale )
-2. Place baking pan in oven.
-3. Bake @ 3+ minutes.
-4. Remove baking pan from oven.
+1. Place skillet in oven, at lowest level.
+2. Bake @ 3+ minutes.
+3. Remove skillet from oven.
 
 Oven
 ----
