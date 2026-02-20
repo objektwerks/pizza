@@ -11,7 +11,7 @@ Ingredients
 5. Gochujang ( 1 tablespoon )
 6. Japanese Roasted Sesame Oil ( 1 tablespoon )
 7. Scallions ( 2 )
->Adjust ingredients to taste.
+>Adjust ingredients to taste and size.
 
 Batter
 ------
@@ -24,9 +24,9 @@ Batter
 
 Oven
 ----
-1. Place 8+ inch bakinng pan or alternative in oven.
+1. Place 8+ inch bakinng pan in oven.
 2. Pre-heat oven @ 450 degrees.
->A cast iron skillet or grill works well.
+>A cast iron skillet is a great alternative.
 
 Bake
 ----
