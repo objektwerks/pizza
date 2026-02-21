@@ -39,13 +39,6 @@ Oven
 ----
 1. Pre-heat oven @ 450 degrees.
 
-Par Bake
---------
-1. Place skillet in oven, at lowest level.
-2. Bake @ 3+ minutes - to create a firm but not browned crust.
-3. Remove skillet from oven.
->Optionally, par bake on stove top @ medium heat.
-
 Build
 -----
 1. Add toppings and seasonings.
@@ -56,3 +49,9 @@ Bake
 2. Bake @ 10+ minutes.
 3. Inspect pizza intermittingly.
 4. Remove skillet from oven.
+
+Crust
+-----
+>If the crust is not done:
+1. Heat stove top burner @ medium heat.
+2. Place skillet on burner until crust is brown and crispy.
