@@ -46,7 +46,7 @@ Build
 Bake
 ----
 1. Place skillet in oven.
-2. Bake @ 10+ minutes.
+2. Bake @ 15 minutes.
 3. Inspect pizza intermittingly.
 4. Remove skillet from oven.
 5. Let pizza rest in skillet for 5 minutes.
