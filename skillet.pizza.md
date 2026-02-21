@@ -42,7 +42,7 @@ Oven
 Par Bake
 --------
 1. Place skillet in oven, at lowest level.
-2. Bake @ 3+ minutes - until bottom crust looks firm, pale, and lightly puffed, not brown.
+2. Bake @ 3+ minutes - to achieve a firm but not browned crust.
 3. Remove skillet from oven.
 >Optionally, par bake on stove top @ medium heat.
 
