@@ -53,6 +53,6 @@ Bake
 
 Crust
 -----
->If the crust is not done:
+>If the crust is not brown and crispy:
 1. Heat stove top burner @ medium heat.
 2. Place skillet on burner until crust is brown and crispy.
