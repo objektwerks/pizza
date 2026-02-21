@@ -49,6 +49,7 @@ Bake
 2. Bake @ 10+ minutes.
 3. Inspect pizza intermittingly.
 4. Remove skillet from oven.
+5. Let pizza rest in skillet for 5 minutes.
 
 Crust
 -----
