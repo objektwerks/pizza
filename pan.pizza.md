@@ -7,7 +7,7 @@ Ingredients
 1. 320 grams water @ 100F / 37C degrees ( 1 1/3 cups ) ( 80% hydration ).
 2. 3 grams yeast ( 1 teaspoon ).
 3. 400 grams bread flour ( 3 1/3 cups ).
-4. 7 grams sea salt ( 2 teaspoons ).
+4. 3 grams sea salt ( 1 teaspoon ).
 
 Toppings
 --------
