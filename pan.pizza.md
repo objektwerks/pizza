@@ -42,7 +42,7 @@ Oven
 Par Bake
 --------
 1. Place baking pan in oven, at lowest level.
-2. Bake @ 7 minutes - to create a firm but not browned crust.
+2. Bake @ 5+ minutes - to create a firm but not browned crust.
 3. Remove baking pan from oven.
 
 Build
