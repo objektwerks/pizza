@@ -32,8 +32,10 @@ Fermentation
 Shape
 -----
 1. Spread olive oil in baking pan.
-2. Place dough in pan.
+2. Place dough in baking pan.
 3. Stretch dough evenly thoughout baking pan.
+4. Cover baking pan for 1 hour.
+5. Stretch dough as required.
 
 Oven
 ----
