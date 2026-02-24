@@ -16,7 +16,8 @@ Dough
 3. Mix in flour.
 4. Mix in sea salt.
 5. Mix in spritz of olive oil.
-6. No kneading required!
+6. Knead dough into ball.
+7. Remove dough ball from bowl and place on board - knead into smooth ball, using flour as required.
 
 Fermentation
 ------------
