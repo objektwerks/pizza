@@ -1,6 +1,6 @@
 Artisan Bread Recipes
 ---------------------
->Artisan bread recipes - basic and sourdough.
+>Basic artisan bread recipe.
 
 Ingredients
 -----------
