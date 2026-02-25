@@ -35,7 +35,7 @@ Chili
 1. Heat stove burner @ medium.
 2. Place 6+ quart cooking pot on stove burner.
 3. Add olive oil to pot.
-4. Mix in beef, onion and green pepper.
+4. Mix in ground beef, onion and green pepper.
 5. Mix in chili beans.
 6. Mix in tomato paste.
 7. Mix in Dogfish Head IPA.
