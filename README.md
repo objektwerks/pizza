@@ -2,6 +2,7 @@ Recipes
 -------
 >Basic minimalistic recipes:
 * [Artisan Bread](./artisan.bread.md)
+* [Chili](./chili.md)
 * [Kimchi](./kimchi.md)
 * [Kimchi Pancake](./kimchi.pancake.md)
 * [Kimchi Rice](./kimchi.rice.md)
