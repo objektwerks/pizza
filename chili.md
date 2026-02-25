@@ -35,9 +35,10 @@ Chili
 -----
 1. Heat stove burner @ low medium.
 2. Place 6 quart cooking pot on stove burner.
-3. Mix in beef, onion and green pepper in pot.
-4. Mix in chili beans in pot.
-5. Mix in tomato paste.
-6. Mix in Dogfish Head IPA.
-7. Mix in 3+ tablespoons of chipolte chili powder.
-8. Stir chili every few minutes for 1+ hours.
+3. Add olive oil to pot.
+4. Mix in beef, onion and green pepper in pot.
+5. Mix in chili beans in pot.
+6. Mix in tomato paste.
+7. Mix in Dogfish Head IPA.
+8. Mix in 3+ tablespoons of chipolte chili powder.
+9. Stir chili every few minutes for 1+ hours.
