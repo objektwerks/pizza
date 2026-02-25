@@ -16,6 +16,9 @@ Prepare
 1. Dice 1 onion.
 2. Dice 1 green pepper.
 3. Unwrap ground beef.
+4. Open tomato paste can.
+5. Open chilli bean cans.
+6. Drain chilli beans.
 
 Beef
 ----
