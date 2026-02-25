@@ -40,5 +40,7 @@ Chili
 6. Mix in tomato paste.
 7. Mix in Dogfish Head IPA.
 8. Mix in 2+ tablespoons of chipolte chili powder.
-9. Stir chili every few minutes for 1+ hours.
+9. Mix all ingredients thoroughly for 15 minutes.
+10. Set stove burner @ low.
+11. Stir chili every few minutes for 1+ hours.
 >Don't forget to frequently taste test the chili!
