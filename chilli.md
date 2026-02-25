@@ -7,7 +7,7 @@ Ingredients
 2. 1 onion.
 3. 1 green pepper.
 4. 1 6oz can of tomato paste.
-5. 3 large cans of drained chilli beans.
+5. 3 large cans chilli beans.
 6. 3+ tablesppons of chipolte chili powder.
 7. 1 12 oz bottle of Dogfish Head 60" or 90" IPA.
 
