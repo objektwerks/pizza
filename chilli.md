@@ -8,7 +8,7 @@ Ingredients
 3. 1 green pepper.
 4. 1 6oz can of tomato paste.
 5. 3 large cans chilli beans.
-6. 3+ tablesppons of chipolte chili powder.
+6. 3+ tablesppons of chipolte chilli powder.
 7. 1 12 oz bottle of Dogfish Head 60" or 90" IPA.
 
 Prepare
@@ -34,3 +34,4 @@ Chilli
 3. Mix in beef, onion and green pepper in pot.
 4. Mix in chilli beans in pot.
 5. Mix in tomato paste.
+6. Mix in 3 tablespoons of chipolte chilli powder.
