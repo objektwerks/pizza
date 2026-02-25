@@ -41,3 +41,4 @@ Chili
 7. Mix in Dogfish Head IPA.
 8. Mix in 2+ tablespoons of chipolte chili powder.
 9. Stir chili every few minutes for 1+ hours.
+>Don't forget to frequently taste test the chili!
