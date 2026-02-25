@@ -11,8 +11,8 @@ Ingredients
 6. 3+ tablesppons of chipolte chili powder.
 7. 1 12 oz bottle of Dogfish Head 60" or 90" IPA.
 
-Prepare
--------
+Preparation
+-----------
 1. Dice 1 onion.
 2. Dice 1 green pepper.
 3. Unwrap ground beef.
