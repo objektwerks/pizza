@@ -22,14 +22,15 @@ Preparation
 
 Beef
 ----
-1. Place diced onion and pepper in a skillet.
-2. Place ground beef in skillet.
-3. Brown ground beef.
-4. Drain liquid from skillet.
+1. Heat stove burner @ medium.
+2. Place diced onion and pepper in a skillet.
+3. Place ground beef in skillet.
+4. Brown ground beef.
+5. Drain liquid from skillet.
 
 Chili
 -----
-1. Heat stove burner to low medium.
+1. Heat stove burner @ low medium.
 2. Place 6 quart cooking pot on stove burner.
 3. Mix in beef, onion and green pepper in pot.
 4. Mix in chili beans in pot.
