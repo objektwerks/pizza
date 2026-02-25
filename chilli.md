@@ -33,3 +33,4 @@ Chilli
 2. Place 6 quart cooking pot on stove burner.
 3. Mix in beef, onion and green pepper in pot.
 4. Mix in chilli beans in pot.
+5. Mix in tomato paste.
