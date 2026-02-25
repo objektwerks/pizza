@@ -4,7 +4,7 @@ Chilli Recipe
 Ingredients
 -----------
 1. 1 pound organic beef ( optional +1 lb ).
-Tomato Paste - 1 6oz can
-Chili Beans  - 3 large cans
+2. 1 6oz can of tomato paste.
+3. 3 large cans of drained chilli beans.
 Chipolte Chili Powder - 1+ tablespoons
 Dogfish Head 90" IPA  - 1 bottle
