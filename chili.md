@@ -32,7 +32,7 @@ Beef
 
 Chili
 -----
-1. Heat stove burner @ low medium.
+1. Heat stove burner @ medium.
 2. Place 6+ quart cooking pot on stove burner.
 3. Add olive oil to pot.
 4. Mix in beef, onion and green pepper.
