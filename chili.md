@@ -1,5 +1,5 @@
-Chilli Recipe
--------------
+Chili Recipe
+------------
 
 Ingredients
 -----------
