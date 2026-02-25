@@ -4,8 +4,8 @@ Chilli Recipe
 Ingredients
 -----------
 1. 1 pound organic ground beef ( optional +1 lb ).
-2. 1 diced onion.
-3. 1 diced green pepper.
+2. 1 onion.
+3. 1 green pepper.
 4. 1 6oz can of tomato paste.
 5. 3 large cans of drained chilli beans.
 6. 3+ tablesppons of chipolte chili powder.
