@@ -39,3 +39,4 @@ Chili
 5. Mix in tomato paste.
 6. Mix in Dogfish Head IPA.
 7. Mix in 3 tablespoons of chipolte chili powder.
+8. Stir chili every few minutes for 1 hour.
