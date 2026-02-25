@@ -26,7 +26,7 @@ Beef
 1. Heat stove burner @ medium.
 2. Place 10" skillet on stove burner.
 3. Add olive oil to skillet
-4. Place diced onion and pepper in the skillet.
+4. Place diced onion and pepper in the skillet and brown.
 5. Place ground beef in the skillet.
 6. Brown ground beef.
 7. Drain liquid from skillet.
