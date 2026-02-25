@@ -4,7 +4,7 @@ Chili Recipe
 
 Ingredients
 -----------
-1. 1 pound organic ground beef ( optional +1 pound ).
+1. 1 pound ground beef ( optionally 2 pounds ).
 2. 1 onion.
 3. 1 green pepper.
 4. 1 6 ounce can of tomato paste.
