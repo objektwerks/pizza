@@ -29,5 +29,7 @@ Beef
 
 Chilli
 ------
-1. Mix in beef, onion and green pepper in pot.
-2. Mix in chilli beans in pot.
+1. Heat stove burner to low medium.
+2. Place 6 quart cooking pot on stove burner.
+3. Mix in beef, onion and green pepper in pot.
+4. Mix in chilli beans in pot.
