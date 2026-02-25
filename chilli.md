@@ -27,3 +27,6 @@ Beef
 3. Brown ground beef.
 4. Drain liquid from skillet.
 
+Chilli
+------
+1. Place skillet contents in 6 quart pot.
