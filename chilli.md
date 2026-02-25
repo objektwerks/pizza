@@ -25,3 +25,5 @@ Beef
 1. Place diced onion and pepper in a skillet.
 2. Place ground beef in skillet.
 3. Brown ground beef.
+4. Drain liquid from skillet.
+
