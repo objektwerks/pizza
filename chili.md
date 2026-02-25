@@ -7,8 +7,8 @@ Ingredients
 2. 1 onion.
 3. 1 green pepper.
 4. 1 6oz can of tomato paste.
-5. 3 large cans chilli beans.
-6. 3+ tablesppons of chipolte chilli powder.
+5. 3 large cans chili beans.
+6. 3+ tablesppons of chipolte chili powder.
 7. 1 12 oz bottle of Dogfish Head 60" or 90" IPA.
 
 Prepare
@@ -17,8 +17,8 @@ Prepare
 2. Dice 1 green pepper.
 3. Unwrap ground beef.
 4. Open tomato paste can.
-5. Open chilli bean cans.
-6. Drain chilli beans.
+5. Open chili bean cans.
+6. Drain chili beans.
 
 Beef
 ----
@@ -27,11 +27,11 @@ Beef
 3. Brown ground beef.
 4. Drain liquid from skillet.
 
-Chilli
-------
+Chili
+-----
 1. Heat stove burner to low medium.
 2. Place 6 quart cooking pot on stove burner.
 3. Mix in beef, onion and green pepper in pot.
-4. Mix in chilli beans in pot.
+4. Mix in chili beans in pot.
 5. Mix in tomato paste.
-6. Mix in 3 tablespoons of chipolte chilli powder.
+6. Mix in 3 tablespoons of chipolte chili powder.
