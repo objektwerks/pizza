@@ -40,5 +40,5 @@ Chili
 5. Mix in chili beans.
 6. Mix in tomato paste.
 7. Mix in Dogfish Head IPA.
-8. Mix in 3+ tablespoons of chipolte chili powder.
+8. Mix in 2+ tablespoons of chipolte chili powder.
 9. Stir chili every few minutes for 1+ hours.
