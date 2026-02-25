@@ -1,5 +1,6 @@
 Chili Recipe
 ------------
+>Basic chili recipe.
 
 Ingredients
 -----------
