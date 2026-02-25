@@ -4,10 +4,10 @@ Chili Recipe
 
 Ingredients
 -----------
-1. 1 pound organic ground beef ( optional +1 lb ).
+1. 1 pound organic ground beef ( optional +1 pound ).
 2. 1 onion.
 3. 1 green pepper.
-4. 1 6oz can of tomato paste.
+4. 1 6 ounce can of tomato paste.
 5. 3 large cans chili beans.
 6. 3+ tablesppons of chipolte chili powder.
 7. 1 12 oz bottle of Dogfish Head 60" or 90" IPA.
