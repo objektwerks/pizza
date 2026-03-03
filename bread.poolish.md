@@ -1,6 +1,6 @@
 Poolish Bread Recipe
 --------------------
->Basic poolish bread recipe @ 500 grams of flour, @ 70% hydration.
+>Basic poolish bread recipe @ 500 grams of total flour.
 
 Poolish Ingredients
 -------------------
