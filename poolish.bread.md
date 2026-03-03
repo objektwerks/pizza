@@ -11,7 +11,7 @@ Poolish Ingredients
 
 Dough Ingredients
 -----------------
-1. 240 grams water @ 100F / 37C degrees ( 1 cup ) ( 60% hydration ).
+1. 200 grams water @ 100F / 37C degrees ( 5/6 cup ) ( 50% hydration ).
 2. 3 grams yeast ( 1 teaspoon ).
 3. 200 grams poolish ( 3/4 cup )
 4. 400 grams bread flour ( 3 1/3 cups ).
