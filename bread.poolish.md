@@ -1,7 +1,7 @@
 Poolish Bread Recipe
 --------------------
 >Basic poolish bread recipe:
-* [Calculator](https://www.breadfriend.com/?totalWeight=500&prefermentType=%27poolish%27&poolishPercentage=30)
+* [Bread Calculator](https://www.breadfriend.com/?totalWeight=500&prefermentType=%27poolish%27&poolishPercentage=30)
 
 Poolish Ingredients
 -------------------
