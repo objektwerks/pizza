@@ -1,6 +1,7 @@
 Poolish Bread Recipe
 --------------------
->Basic poolish bread recipe @ 500 grams of total flour.
+>Basic poolish bread recipe:
+* [Calculator](https://www.breadfriend.com/?totalWeight=500&prefermentType=%27poolish%27&poolishPercentage=30)
 
 Poolish Ingredients
 -------------------
