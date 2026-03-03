@@ -48,7 +48,7 @@ Shape
 1. Spread flour on board.
 2. Place dough ball on board - sprinkle flour on dough ball.
 3. Shape dough into desired shape.
-4. Place dough on parchment paper.
+4. Place dough on parchment paper or silicon bread sling.
 5. Score dough.
 
 Oven
