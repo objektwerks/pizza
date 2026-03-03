@@ -7,8 +7,8 @@ Ingredients
 1. 100 grams flour.
 2. 70 grams water.
 3. 200 grams kimchi.
-4. 3+ tablespoons of kimchi liquid ( sourced from kimchi container )
-5. Korean Gochujang ( 1 tablespoon )
+4. 3+ tablespoons of kimchi liquid.
+5. 1 tablespoon gochujang.
 6. Japanese Roasted Sesame Oil ( 1 tablespoon )
 7. Scallions ( 2 )
 >Adjust ingredients to taste and size.
