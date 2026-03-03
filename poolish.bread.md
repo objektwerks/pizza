@@ -36,8 +36,8 @@ Dough
 7. Knead dough into ball.
 8. Remove dough ball from bowl and place on board - knead into smooth ball, using flour as required.
 
-Fermentation
-------------
+Dough Fermentation
+------------------
 1. Add olive oil to bottom of coverable container.
 2. Place dough ball in coverable container - then cover.
 2. Ferment dough ball for 4+ hours @ room temperature.
