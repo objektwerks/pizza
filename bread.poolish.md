@@ -20,9 +20,9 @@ Poolish Fermentation
 
 Dough Ingredients
 -----------------
-1. 150 grams water @ 100F / 37C degrees ( 5/8 cup ) ( 50% hydration ).
+1. 100 grams water @ 100F / 37C degrees ( 1/2 cup ) ( 50% hydration ).
 2. 3 grams yeast ( 1 teaspoon ).
-3. 300 grams bread flour ( 3 1/3 cups ).
+3. 200 grams bread flour ( 1 1/2 cups ).
 4. 3 grams sea salt ( 1 teaspoon ).
 
 Dough
