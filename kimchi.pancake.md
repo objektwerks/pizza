@@ -9,8 +9,8 @@ Ingredients
 3. 200 grams kimchi.
 4. 3+ tablespoons of kimchi liquid.
 5. 1 tablespoon gochujang.
-6. Japanese Roasted Sesame Oil ( 1 tablespoon )
-7. Scallions ( 2 )
+6. 1 tablespoon Japanese roasted sesame oil.
+7. 2 scallions
 >Adjust ingredients to taste and size.
 
 Batter
