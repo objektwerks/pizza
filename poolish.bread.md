@@ -17,6 +17,12 @@ Dough Ingredients
 4. 400 grams bread flour ( 3 1/3 cups ).
 5. 3 grams sea salt ( 1 teaspoon ).
 
+Poolish
+-------
+1. Pour water @ 100F / 37C degrees into a bowl.
+2. Mix in yeast.
+3. Mix in flour.
+
 Dough
 -----
 1. Pour water @ 100F / 37C degrees into a bowl.
