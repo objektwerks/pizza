@@ -2,7 +2,7 @@ Recipes
 -------
 >Basic minimalistic recipes:
 * [Artisan Bread](./bread.artisan.md)
-* [Poolish Bread](./poolish.bread.md)
+* [Poolish Bread](./bread.poolish.md)
 * [Chili](./chili.md)
 * [Kimchi](./kimchi.md)
 * [Kimchi Pancake](./kimchi.pancake.md)
