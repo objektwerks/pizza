@@ -7,7 +7,7 @@ Ingredients
 1. 1 cup cooked rice.
 2. 4 tablespoons roasted sesame oil.
 3. 2+ tablespoons gochujang.
-4. Kimchi Liquid ( 3+ tablespoons, sourced from kimchi container )
+4. 3+ tablespoons kimchi liquid.
 5. Kimchi ( just grab as much as you like )
 >Adjust ingredients to taste.
 
