@@ -1,5 +1,5 @@
-Artisan Bread Recipes
----------------------
+Artisan Bread Recipe
+--------------------
 >Basic artisan bread recipe.
 
 Ingredients
