@@ -16,7 +16,7 @@ Poolish
   
 Poolish Fermentation
 --------------------
-1. Ferment 16 to 14 hours @ room temperature.
+1. Ferment 8 to 24 hours @ room temperature.
 
 Dough Ingredients
 -----------------
