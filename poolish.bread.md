@@ -20,6 +20,10 @@ Poolish
 1. Pour water @ 100F / 37C degrees into a bowl.
 2. Mix in yeast.
 3. Mix in flour.
+  
+Poolish Fermentation
+--------------------
+1. Ferment 16 to 14 hours @ room temperature.
 
 Dough
 -----
