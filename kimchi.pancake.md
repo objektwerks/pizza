@@ -4,7 +4,7 @@ Kimchi Pancake Recipe
 
 Ingredients
 -----------
-1. Flour ( 100 grams )
+1. 100 grams flour.
 2. Water ( 70 grams )
 3. Kimchi ( 200 grams )
 4. Kimchi Liquid ( 3+ tablespoons, sourced from kimchi container )
