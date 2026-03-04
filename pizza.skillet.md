@@ -9,12 +9,6 @@ Ingredients
 3. 300 grams bread flour.
 4. 3 grams sea salt ( 1 teaspoon ).
 
-Toppings
---------
-1. Tomato sauce.
-2. Shredded mozarella.
->Alter toppings as desired.
-
 Dough
 -----
 1. Pour water @ 100F / 37C degrees into a bowl.
@@ -43,6 +37,12 @@ Shape
 Oven
 ----
 1. Pre-heat oven @ 450 degrees.
+
+Toppings
+--------
+1. Tomato sauce.
+2. Shredded mozarella.
+>Alter toppings as desired.
 
 Build
 -----
