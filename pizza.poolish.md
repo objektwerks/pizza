@@ -26,3 +26,10 @@ Dough Ingredients
 2. 3 grams yeast ( 1 teaspoon ).
 3. 70 grams 00 pizza flour.
 4. 3 grams sea salt ( 1 teaspoon ).
+
+Toppings
+--------
+1. Tomato sauce.
+2. Shredded mozzarella.
+>Alter toppings as desired.
+
