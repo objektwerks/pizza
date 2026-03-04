@@ -39,3 +39,9 @@ Dough Fermentation
 2. Place dough ball in coverable container - then cover.
 3. Ferment dough ball for 4+ hours @ room temperature.
 >Optionally, ferment dough ball overnight in frig.
+
+Shape
+-----
+1. Place dough ball on board.
+2. Sprinkle flour on dough ball.
+3. Shape dough into 12” circle.
