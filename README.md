@@ -9,4 +9,5 @@ Recipes
 * [Kimchi Rice](./kimchi.rice.md)
 * [Pizza](./pizza.md)
 * [Pan Pizza](./pizza.pan.md)
+* [Poolish Pizza](./pizza.poolish.md)
 * [Skillet Pizza](./pizza.skillet.md)
