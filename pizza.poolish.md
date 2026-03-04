@@ -19,3 +19,10 @@ Poolish Fermentation
 1. Add olive oil to bottom of coverable container.
 2. Place poolish in coverable container - then cover.
 3. Ferment 12 to 24 hours in frig.
+
+Dough Ingredients
+-----------------
+1. 21 grams cold water, @ 30% hydration.
+2. 3 grams yeast ( 1 teaspoon ).
+3. 70 grams 00 pizza flour.
+4. 3 grams sea salt ( 1 teaspoon ).
