@@ -18,7 +18,8 @@ Poolish Fermentation
 --------------------
 1. Add olive oil to bottom of coverable container.
 2. Place poolish in coverable container - then cover.
-3. Ferment 12 to 24 hours in frig.
+3. Ferment 2 hours @ room temperature.
+4. Ferment 12 to 24 hours in frig.
 
 Dough Ingredients
 -----------------
