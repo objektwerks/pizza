@@ -33,6 +33,18 @@ Toppings
 2. Shredded mozzarella.
 >Alter toppings as desired.
 
+Dough
+-----
+1. Pour water @ 100F / 37C degrees into a bowl.
+2. Mix in yeast.
+3. Mix in poolish.
+4. Mix in flour.
+5. Mix in sea salt.
+6. Mix in spritz of olive oil.
+7. Knead dough into rough ball.
+8. Remove dough ball from bowl and place on board.
+9. Knead dough ball into smooth ball, using flour as required.
+
 Dough Fermentation
 ------------------
 1. Add olive oil to bottom of coverable container.
