@@ -13,3 +13,9 @@ Poolish
 1. Pour water @ 100F / 37C degrees into a bowl.
 2. Mix in yeast.
 3. Mix in flour.
+
+Poolish Fermentation
+--------------------
+1. Add olive oil to bottom of coverable container.
+2. Place poolish in coverable container - then cover.
+3. Ferment 12 to 24 hours in frig.
