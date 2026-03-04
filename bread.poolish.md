@@ -13,7 +13,7 @@ Poolish
 1. Pour water @ 100F / 37C degrees into a bowl.
 2. Mix in yeast.
 3. Mix in flour.
-  
+
 Poolish Fermentation
 --------------------
 1. Add olive oil to bottom of coverable container.
