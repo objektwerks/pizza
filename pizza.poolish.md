@@ -51,3 +51,9 @@ Oven
 1. Place pizza stone, steel or cast iron grill in oven, at lowest level.
 2. Pre-heat oven @ 450 degrees.
 
+Build
+-----
+1. Spread semolina flour on pizza peel.
+2. Place shaped dough on pizza peel.
+3. Add toppings and seasonings.
+
