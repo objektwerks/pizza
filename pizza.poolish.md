@@ -27,12 +27,6 @@ Dough Ingredients
 3. 70 grams 00 pizza flour.
 4. 3 grams sea salt ( 1 teaspoon ).
 
-Toppings
---------
-1. Tomato sauce.
-2. Shredded mozzarella.
->Alter toppings as desired.
-
 Dough
 -----
 1. Pour water into a bowl.
@@ -61,6 +55,12 @@ Oven
 ----
 1. Place pizza stone, steel or cast iron grill in oven, at lowest level.
 2. Pre-heat oven @ 450 degrees.
+
+Toppings
+--------
+1. Tomato sauce.
+2. Shredded mozzarella.
+>Alter toppings as desired.
 
 Build
 -----
