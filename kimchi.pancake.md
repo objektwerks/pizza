@@ -10,7 +10,7 @@ Ingredients
 4. 3+ tablespoons of kimchi liquid.
 5. 1 tablespoon gochujang.
 6. 1 tablespoon roasted sesame oil.
-7. 2 scallions
+7. 2 scallions.
 >Adjust ingredients to taste and size.
 
 Batter
