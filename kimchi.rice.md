@@ -8,7 +8,7 @@ Ingredients
 2. 4 tablespoons roasted sesame oil.
 3. 2+ tablespoons gochujang.
 4. 3+ tablespoons kimchi liquid.
-5. Kimchi ( just grab as much as you like )
+5. 2 cups of bite-sized kimchi.
 >Adjust ingredients to taste.
 
 Cook
