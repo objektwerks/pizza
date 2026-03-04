@@ -45,3 +45,9 @@ Shape
 1. Place dough ball on board.
 2. Sprinkle flour on dough ball.
 3. Shape dough into 12” circle.
+
+Oven
+----
+1. Place pizza stone, steel or cast iron grill in oven, at lowest level.
+2. Pre-heat oven @ 450 degrees.
+
