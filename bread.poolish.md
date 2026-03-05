@@ -4,9 +4,9 @@ Poolish Bread Recipe
 
 Poolish Ingredients
 -------------------
-1. 175 grams water @ 100F / 37C degrees, @ 100% hydration.
+1. 158 grams water @ 100F / 37C degrees, @ 100% hydration.
 2. 1 gram yeast ( 1/4 teaspoon ).
-3. 175 grams bread flour.
+3. 158 grams bread flour.
 
 Poolish
 -------
