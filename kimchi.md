@@ -26,7 +26,6 @@ Sauce
 4. Add 2 tablespoons of garlic.
 5. Add 2 tablespoons of ginger.
 6. Mix thoroughly.
->I use organic dried garlic and ginger flakes.
 
 Prep
 ----
