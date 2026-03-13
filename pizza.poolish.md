@@ -56,6 +56,7 @@ Oven
 ----
 1. Place pizza stone, steel or cast iron grill in oven, at lowest level.
 2. Pre-heat oven @ 500 degrees.
+>Optionally, prepare pizza on a cold platform.
 
 Toppings
 --------
