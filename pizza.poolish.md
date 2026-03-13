@@ -69,7 +69,7 @@ Build
 1. Spread semolina flour on pizza peel.
 2. Place shaped dough on pizza peel.
 3. Add toppings and seasonings.
->Optionally, prepare pizza on a cold platform.
+>Optionally, build pizza on a cold platform.
 
 Bake
 ----
