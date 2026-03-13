@@ -77,3 +77,4 @@ Bake
 2. Bake @ 10 minutes.
 3. Inspect and adjust pizza intermittingly.
 4. Remove pizza from oven.
+>Optionally, insert pizza, on a cold platform, in oven.
