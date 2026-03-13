@@ -56,7 +56,7 @@ Oven
 ----
 1. Place pizza stone, steel or cast iron grill in oven, at lowest level.
 2. Pre-heat oven @ 500 degrees.
->Optionally, prepare pizza on a cold platform.
+>Optionally, prepare the pizza on a cold platform.
 
 Toppings
 --------
@@ -69,6 +69,7 @@ Build
 1. Spread semolina flour on pizza peel.
 2. Place shaped dough on pizza peel.
 3. Add toppings and seasonings.
+>Optionally, prepare the pizza on a cold platform.
 
 Bake
 ----
